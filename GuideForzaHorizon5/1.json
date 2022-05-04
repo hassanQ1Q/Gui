@@ -1,0 +1,4085 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+
+      "Active_Ads": "ironsource",
+		  
+      "IronSource_App_Key": "1234fc825",
+	  
+      "IronSource_interstitial": "DefaultInterstitial",
+      "IronSource_banner": "DefaultBanner",
+	  
+      "Startapp_id": "XXXXXXXXX"
+		
+      }
+
+    ],
+
+    "items": [
+      {
+        "title": "Barn Finds",
+        "image": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Barn Finds1.png"
+      },
+      {
+        "title": "Walkthrough",
+        "image": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Bronco_2.jpg"
+      },
+      {
+        "title": "Tips and Tricks",
+        "image": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dust_Storm.jpg"
+      },
+      {
+        "title": "Money Glitch",
+        "image": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Tulum_Radio.jpg"
+      },
+      {
+        "title": "Car List",
+        "image": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/BMW_Turbo_Shot.jpg"
+      },
+      {
+        "title": "Cheats and Secrets",
+        "image": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/mlkmlkdmqlskdms.png"
+      }
+    ],
+
+    "content0": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Barn Finds",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Here's how to discover all 14 Forza Horizon 5 Barn Find Locations. Like its predecessors, Forza Horizon 5 includes Barn Finds that lets you hunt down rare vehicles within the game's open world. This go-around there are 14 different cars to acquire. As you progress through the game, you'll hear rumors about these cars and can then go to the search bubble that pops up on your map and look for the Barn.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "However, some of the Barn Finds are actually locked behind missions. This only happens in a few places, but it's important to note that, to get them all, you'll need to make sure you're completing optional objectives in Expeditions and purchasing specific Player Houses.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "If you're having a tough time tracking one of the Barns down, remember to use Drone Mode to help you locate it more quickly. You do this by entering the main menu and then scrolling over to \"Creative Hub.\" Then, you want to look at the righthand side of the screen and select \"Drone Mode.\" Not only does this little guy zip around the world, but you also don't have to deal with pesky things like traction to get up hills and look in the woods.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Note: the order of Barn Finds may differ depending on your path. It's also important to remember that you can't just drive up to a Barn to unlock it. You need to first get the rumor to get the Barn to open.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "All Barn Find Cars Checklist\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Use the checklist feature below to help you keep track of which Barn Finds you've discovered and which ones you still need to hunt down.",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/BMW_Turbo_Map.jpg",
+        "text": "1973 BMW 2002 Turbo",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Chevy_Corvette_Map.jpg",
+        "text": "1953 Chevrolet Corvette",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Viper_Map.jpg",
+        "text": "1999 Dodge Viper GTS ACR",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Dart_Map.jpg",
+        "text": "1968 Dodge Dart Hemi Super",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Mustang_Map.jpg",
+        "text": "1968 Ford Mustang 2+2 Fastback",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Racing_Escort_Map.jpg",
+        "text": "1967 Ford Racing Escort MK1",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jimmy_Map.jpg",
+        "text": "1970 GMC Jimmy",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jaguar_Map.jpg",
+        "text": "1991 Jaguar Sport XJR-15",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Carrera_Map.jpg",
+        "text": "1973 Porsche 911 Carrera RS",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/4L_Map.jpg",
+        "text": "1968 Renault 4L Export",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Baja_Map.jpg",
+        "text": "1993 Toyota #1 T100 Baja Truck",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/F40_Map.jpg",
+        "text": "1989 Ferrari F40 Competizione",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/GTO_Map.jpg",
+        "text": "1962 Ferrari 250 GTO",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/F100_Map.jpg",
+        "text": "1956 Ford F-100",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Walkthrough",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "IGN's Forza Horizon 5 complete strategy guide and walkthrough helps you through every step of Forza Horizon 5 as you sprint around Mexico from your first race to your last, including every collectible location such as Barn Finds and Bonus Boards. Make sure to check out our Tips and Tricks page to take your skills to the next level and don't miss our Vehicles section to see which cars to hop into.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Walkthrough Sections\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Bronco_2.jpg",
+        "text": "Forza Horizon 5's approach to open-world racing lets you tackle the game however you want. No matter what type of racing you're into, you'll be able to progress through Forza's story modes and try out all of the over-the-top Showcase events the game has to offer. Most objectives in Forza Horizon 5 will lead you directly to a location of a race, but you may need more help finding the Barn Find Locations, so we've marked the exact spots on our Forza Horizon 5 map .\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Horizon 5 takes a slightly different approach to filling out your map with races to complete. You'll start with a few easy races in the middle of the map, but will slowly start to unlock Accolade points. You can use these to open up new races on the map by completing Expeditions. As you continue racing across Mexico, you'll win credit rewards and wheelspins that can give you new cosmetics, cars, and more.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "There are five main types of racing in Forza Horizon 5:\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Road Racing\nDirt Racing\nCross Country\nPR Stunts\nStreet Racing\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Each of these hits the map after you complete their respective Expedition. In addition to these, there are several Multiplayer events you can hop into, including the Eliminator and Horizon Arcade events. Plus, Horizon 5 continues Playground Games' seasonal format with new Seasonal Championships for you to dive into.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Barn Finds also make a return, but this time you can't just run out and find them all. Instead, you need to unlock a Barn Find rumor by progressing through the main story before they become active. You'll get most of them as you progress, but a few require you to do specific actions to unlock them.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "New to Forza Horizion 5 are Stories. These self-contained collections of missions will introduce you to some of the characters that call Mexico home. Whether it's racing against Luchadores or searching for forgotten statues, these are a fun diversion that helps you build your Accolade meter.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Mexico Mainstage\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This is where you'll start the Horizon Festival in Mexico. The Mainstage will introduce you to every type of race and PR Stunt before giving you the opportunity to decide which direction you want to focus on first.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Along the way, you'll unlock a Showcase event where you race a plane, begin the Vocho Story, and take on The Goliath. The latter is a massive race across Mexico that will test your early skills.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "At this point, you can kind of drive whatever you want since you're testing out several different types of events. Personally, we used the 2020 Porsche Taycan Turbo S as it came with the Welcome Pack. However, if you don't have access to that car, you might target a cheaper S1 or S2 car to get you started. Look for one with good Acceleration and Handling.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dust_Storm.jpg",
+        "text": "Horizon Apex - Road Racing\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The Apex Outpost will unlock several road races across the map. For those, you'll be best off sticking with an S1 or S2 car. Again, the Taycan Turbo S from the Welcome Pack is a great option. However, if you can get your hands on the 2011 Lamborghini Sesto Elemento Forza Edition, you'll be cruising. Of course, that car runs 2,750,000 Credits, making it tough to get your hands off if you don't get a lucky Wheelspin as we did.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Either way, the big features of this Outpost are the Lucha de Carreteras Story and The Colossus event. The former will test your racing and drifting skills in a series of events as you learn the ways of the Luchadores. The latter is one of the longest races in Forza Horizon history. Bring some fluids.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Horizon Wilds - Dirt Racing\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "When you take things to the jungle, you'll open up dirt races around the map. Finishing this expedition also unlocks the El Camino Story, which sees you following an old explorer to take pictures of ancient ruins. You'll also get access to a Showcase race against a team of jet skis and unlock The Gauntlet, which pits you in yet another lengthy race. This time, you'll have to take your talents off-road.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "If you can, try to find a car with a good Offroad rating for these races. One obvious choice is the 1993 Toyota T100 Baja Truck that shows up in a Barn Find. However, those unlock as you progress, so you might not have access to it when you start these. The 1994 Hoonigan Ford Escort RS Cosworth WRC served us well even if it doesn't have the best Offroad rating.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Bronco.jpg",
+        "text": "Horizon Baja - Cross Country Racing\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Cross Country races can kind of be viewed as the middle ground between Offroad and Street. That means you want something that can do both. We liked using the 2011 BMW X5 M Forza Edition. It has top-of-line Handling, Acceleration, and Launch, with good Speed and Braking to boot. It will run you 500,000 Credits, but it's well worth the sticker price.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Working your way through the Baja Outpost missions will let you race a Monster Truck in a Showcase race and become a stunt driver during the V10 Story. Finally, you'll unlock another monster race in the form of The Titan. It's not quite as long as what's come before, but definitely come prepared to spend more time than a standard race.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Horizon Rush - PR Stunts\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Unlike the other Expeditions, this one unlocks all kinds of new things around the map. You'll find new Speed Traps, Danger Signs, Speed Zones, Trailblazer Gates, and Drift Zones scattered around Mexico. Plus, if you want to smash all of the Bonus Boards, you'll need the ramps these Danger Signs unlock.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "You'll also get access to a Showcase race against a Train and what the game calls an \"epic mega-trailblazer\" that will test your offroad skills.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Image2.jpg",
+        "text": "Horizon Street Scene - Street Racing\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "When you take things to the street racing scene, it's all about Speed, Handling, and Acceleration. Again, we love using something like the 2011 BMW X5 M Forza Edition, though you can obviously shop for something cheaper if you don't want to spend that much money.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Alongside all of the new Street Scene races, you'll unlock the Born Fast Story that lets you take on a racing society. Plus, you can enter The Marathon, which is billed as \"the definitive\" race on the scene.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Tips and Tricks",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "IGN has the tips and tricks, strategies, and secrets you need to succeed in Forza Horizon 5. Whether you're a new player or veteran, these tips will help your cross the finish line first and earn your place in the Hall of Fame.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dust_Storm.jpg",
+        "text": "Adjust Your Settings\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Forza Horizon 5 offers a ton of ways to customize your driving experience to fit your exact playstyle. In the Advanced Controls settings, you’ll find all sorts of options to change deadzones for your thumbsticks or triggers that can affect how your car accelerates, turning sensitivity, and how the E-brake responds to button presses. Also, in the difficulty settings, you can also alter how arcade-y or simulation-like you want your car to feel - with arcade giving you much more leeway to make risky maneuvers and simulation requiring you to master cornering.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "There’s even a toggle that lets you set damage to cosmetic (damage doesn’t affect performance) or simulation (wear and tear will impact performance). You also gain bonus CR depending on the difficulty of the Drivatars and how much driving assistance you need. It's a true choose-your-own-adventure approach.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/4L.jpg",
+        "text": "Broaden Your Horizons\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Expanding the Festival is what unlocks more events on the map, so try to do the opening mission for each festival event to open up new race types. It won’t be long before your map is filled with every race type, giving you a TON of things to do.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Further, if you want to compete in marquee events, make sure to keep unlocking new missions on the map as you earn Accolade Points. The special Showcase Races and Story Events are also mostly locked behind that AP paywall.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Quickly Unlock Manufacturer Bonuses\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "When you buy a certain number of cars from a specific manufacturer you'll unlock a bonus prize. Many of these manufacturers only have one car in the game, which is often relatively cheap. One quick way to unlock XP early in the game is to purchase some of these as soon as you have the Credits to do so.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Carrera_Barn.jpg",
+        "text": "Drone Discoveries\n\n",
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "When trying to find a barn in the big circle radius, instead of driving around looking for it, instead switch to your drone and fly around. You’ll find it faster not having to drive, and when you find it, it’ll even mark it on your map for you to drive to.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "If you still need help, make sure to give our guide on Barn Finds a look. It includes a detailed map of where to find all 14 classic cars.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jimmy_Barn.jpg",
+        "text": "Track it Back\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "If you really mess up during a multiplayer race, the rewind feature still works online, but you’ll only rewind yourself - unlike in playing solo where it rewinds all opponents and NPCs/traffic. That means using it will likely leave you far behind your competition.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "That doesn't mean it doesn't have its place in online races, you just need to only use it if you really mess up. Basically, unless you've found yourself careening over a cliff or have missed a crucial checkpoint, it's best to leave this feature for AI races.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The Road Less Traveled\n",
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Many Forza Horizon 5 races require you to drive through checkpoints to stay on the course. However, some don't have that restriction. Take advantage of this by plowing through the Mexican scenery on your way to an incredibly quick lap time. In fact, some of the mission times can only be completed by using this strategy.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Baja.jpg",
+        "text": "Perks of Homeownership\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Most of the houses available for purchase automatically unlock a perk to help you out, so take a look at what’s available and try and buy the Player Houses you think will help you out the most. For example, we highly recommend buying the Buenas Vistas property on the west coast of the map once it’s available since it unlocks the ability to fast travel to any road on the map. This is a huge timesaver, but…\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Cheaper Fast Travel\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "… you should also make sure to smash as many Fast Travel boards as possible to bring down the in-game cost of fast traveling. Smash them all and the cost becomes zero, so be sure to check out our interactive map to make sure you don’t miss any!\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "That said, don’t stress over seeing XP or fast travel boards in seemingly impossible-to-reach places during your first few hours. The vast majority of the PR stunt jumps aren’t placed on the map until you open the Horizon Rush festival expansion; after that, new ramps will appear on the map, making smashing tricky signs possible\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jimmy_Map.jpg",
+        "text": "Use Map Filters!\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Once you’ve unlocked all of the adventures, your map can become extremely cluttered. Use the filters to sort out a specific type of race or even just make it where you can only see the activities you’ve yet to complete.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This tip seems pretty obvious, but with how much starts to pop up on your map once you've unlocked all the Expeditions, it's worth pointing out. A clean map makes traversing Mexico much easier.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Don't ignore your skill perks.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "As you unlock mastery points you can spend those points on your favorite car to unlock things like increases to speed skills, improved skill multipliers, and even wheelspins.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "However, we recommend sticking to just a few cars for your perks. Pick a car or two to max out for races and drifts and then save the rest. You can then use those perks to quickly build up cash. Check out our How to do the Money Glitch guide for more.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "You’ve (Probably) Got Mail!\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Make sure to always stay on top of checking your accolades and mail. A lot of the rewards you receive for completing all of the wide-ranging Accolades in Forza won’t actually be given to you until you actively take steps to collect them.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Carrera_Barn.jpg",
+        "text": "Choose Your Chariot\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "When racing in single-player, pick the car you’re most comfortable driving. It doesn't matter if it's slower, all of your opponents will be put in the same type of vehicle.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This lets you take things a little easier if you'd like. Sometimes we all just want to stroll through an offroad race in an old-school Ferrari, after all.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Check the Weather\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Before each race, make sure to note the weather. This can have a major impact on your car's performance during the race. For example, if it's rainy out, the track will be wet, causing you to slip if you don't take turns more carefully.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This extends to the Seasons system, which can introduce even more weather-based challenges. Check the forecast to put you in the best position possible.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Money Glitch",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Note: This glitch is no longer as lucrative as of the November 17, 2021 Hot Fix.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Here's how to earn trunkloads of credits very quickly with what some players are calling the Forza Horizon 5 \"money glitch.\" With some practice, you can easily rack up dozens of Super Wheelspins per hour, giving you massive profits and a garage full of new cars. Note that there is also an XP glitch or exploit that lets you earn XP while AFK.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Prep Work\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Drift_Chevy.jpg",
+        "text": "Calling this a \"glitch\" isn't really accurate. It's probably not the way Playground Games intended for players to engage with the game, but it's not doing anything that could be viewed as illegal. Essentially, what you're doing is building up tons of Perk points, purchasing a relatively inexpensive car, and then spending Perk points to earn Super Wheelspins.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Drift_Viper.jpg",
+        "text": "To get started, we need to pick a specific type of car. You can use just about any Formula Drift car for this technique, but players with the Car Pass have access to several options. Personally, we liked using the Formula Drift Chevrolet Corvette. However, if you don't have the Car Pass, you can go to the Autoshow and buy something like the Formula Drift Dodge Viper. It costs twice as much on the market but is a bit better for what we're planning to do.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "With your car in tow, you then need to grab all of the important car masteries that will make this technique take off. So, for the Dodge Viper, you want to go into your Car Mastery menu and purchase all of the options except the boost to Skill Songs and the boost that only applies to a few races. You can unlock the perk that lets you hit something and keep your multiplier rolling, but it's not necessary. Having these skills will give you even more of a multiplier while you drift, so they're very important.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Where to Drift",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Drift_Location.jpg",
+        "text": "Once you have your car, you want to go into the main menu and select the option to upgrade your car. Then, you want to select \"Find Tuning Setups\" and just pick one of the higher-rated options. These change periodically, but the ones you want will always be highly rated because so many players are using this technique.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Next, you want to head over to the airstrip at the southern end of the map. This is the perfect location because it's relatively straight, has no traffic, and has several things you can wreck into to build up your combo.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Drift_Example.jpg",
+        "text": "Essentially, the goal here is to start drifting up and down the airstrip while keeping your combo going. This lets you quickly build up Perk points, though it's worth remembering that the maximum Perks you can get from one combo is 10. That means you want to stop your combo as close to 72,000 X 7.0 points as possible because that will get those 10 Perk points.\n\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Turning Perks into Credits\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Once you've racked up all the Perk points you want, head to the Autoshow. Unfortunately for players looking to really rack up Credits, Playground Games has implemented a Hotfix on November 17 that makes using Willy Jeeps no longer possible. However, that does not mean the strategy is completely useless. It's just much less efficient.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Porsche_Cayman.jpg",
+        "text": "We've gone through the 300+ cars we've added to our garage at launch and the current best bet for this method seems to be the 2015 Porsche Cayman GTS. The Cayman is just 80,000 Credits (double the Willy Jeep) and, if you follow the path in the screenshot below, you can unlock a Super Wheelspin with just 11 Perk Points. Obviously, that's also double the Perks as the Willy Jeep, but it's the best solution we've found thus far.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Car List",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1973 BMW 2002 Turbo\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/BMW_Turbo_Shot.jpg",
+        "text": "Welcome to Guide and Walkthrough for Forza Horizon 5. In this section, we'll show you where to find the BMW Turbo Barn Find. This classic sports car likely isn't blowing anyone off the line, but it's still fun to have in your garage when you're fancying an evening drive.\n\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. Once you unlock it, you'll need to head east of Guanajuato on the north side of the map. Along the main path in this area, you'll see a grouping of houses. You need to go past these houses to find a hidden Barn behind them.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/BMW_Turbo_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. This is one of the trickier ones to spot, so break out that Drone if you're having trouble.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/BMW_Turbo_Location.jpg",
+        "text": "Above is the precise location you'll find the BMW Turbo on the map.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/BMW_Turbo_Barn.jpg",
+        "text": "On the right of this screenshot, you'll see the grouping of buildings you need to turn into as you drive along the main road.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Just behind those buildings is the Barn you're looking for.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1953 Chevrolet Corvette\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Chevy_Corvette_Car.jpg",
+        "text": "we'll show you where to find the 1953 Chevrolet Corvette Barn Find. This classic sports car doesn't do much more than looking stunning on the track. Its stats aren't anything to write home about, so you likely won't use it for too many competitive races. That said, its classic look is hard to beat.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. Once you unlock it, you'll need to head west of the Los Jardine's landmark. There's a 4-way lane highway going over a bridge near the search bubble, you want to head south of that bridge. Then, you'll find the barn overlooking a field.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Chevy_Corvette_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Chevy_Corvette_Bridge.jpg",
+        "text": "Above is the precise location you'll find the Chevy Corvette on the map.\n\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Chevy_Corvette_Location_Real.jpg",
+        "text": "This is the bridge you're looking for. Hang a right from here into the fields to find the barn.\n\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1999 Dodge Viper GTS ACR",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Viper_Car.jpg",
+        "text": "we'll show you where to find the 1999 Dodge Viper GTS ACR Barn Find. This retro muscle car isn't bad for its class with solid speed and above-average handling.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. Once you unlock it, you'll need to head north of the Ek' Balam landmark in the Gran Pantano region. It's kind of in the middle of nowhere, but it's still not too tough to find if you follow the dirt roads.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Viper_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Viper_Gate.jpg",
+        "text": "Above is the precise location you'll find the Dodge Viper on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Viper_Barn.jpg",
+        "text": "You're looking for this gate in the fence off of the dirt road. This will lead you to the barn.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1968 Dodge Dart Hemi Super\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Dart.jpg",
+        "text": "we'll show you where to find the 1968 Dodge Dart Hemi Super Barn Find. This classic muscle car is in the middle of the road for most stats; however, having that good old-fashioned muscle at your fingertips is certainly fun.",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. Once you unlock it, you'll need to head just southeast of Teotihuacan. Like a few others, this barn is in the middle of nowhere, so just head into the fields in the search bubble and you should run into it.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Dart_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Dart_Field.jpg",
+        "text": "Above is the precise location you'll find the Dodge Dart on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Dodge_Dart_Barn.jpg",
+        "text": "Coming from the north, you want to head into the fields between some of the major roads.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1968 Ford Mustang 2+2 Fastback",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Racing_Escort.jpg",
+        "text": "we'll show you where to find the 1967 Ford Racing Escort MK1 Barn Find. This classic rally car has good offroad capabilities, but not too much else to write home about.",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. Once you unlock it, make your way to the La Gran Caldera region. There, you'll find this barn sitting on the side of the mountain.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Racing_Escort_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Racing_Escort_Location.jpg",
+        "text": "Above is the precise location you'll find the Racing Escort on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Racing_Escort_Barn.jpg",
+        "text": "On this bend, you'll notice an unmarked dirt trail leading off to the left. Take this turn to find the barn.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1970 GMC Jimmy\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jimmy.jpg",
+        "text": "we'll show you where to find the 1970 GMC Jimmy Barn Find. The Jimmy is a great offroad vehicle if you need one, though it doesn't perform well anywhere else.",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks during the Apex Expedition Outpost. You'll need to go to the top of the central ruin when you're given a set of optional objectives to unlock this barn find. With it unlocked, head west of Cascadas De Agua Azul. Here, you'll find the barn in the marshes off of a dirt road.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "Jimmy_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jimmy_River.jpg",
+        "text": "Above is the precise location you'll find the Jimmy on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jimmy_Barn.jpg",
+        "text": "As you drive down the dirt road, look for this creek. Turn west and follow it to the barn.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1991 Jaguar Sport XJR-15\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jaguar.jpg",
+        "text": "we'll show you where to find the 1991 Jaguar Sport XJR-15 Barn Find. This retro supercar is above average in just about every stat, while possessing exceptional speed and handling.",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks during the Wilds Expedition. While working through the optional objectives, you should find this barn. If you're having trouble tracking it down while searching, it's in the southeast corner of the search bubble that unlocks while doing the optional objectives.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jaguar_Map.jpg",
+        "text": "",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jaguar_Location.jpg",
+        "text": "Above is the precise location you'll find the Jaguar on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Jaguar_Barn.jpg",
+        "text": "During the Expedition, you'll be in this airfield. Move toward the southeast corner to find the barn.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1973 Porsche 911 Carrera RS\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Carrera.jpg",
+        "text": "we'll show you where to find the 1973 Porsche 911 Carrera RS Barn Find. The 911 is more of a looker than anything else. That isn't to say it doesn't drive well, it's just surpassed by many other cars in Forza.",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. Once you unlock it, you need to find your way to the east side of the volcano at La Gran Caldera. As usual, find your way through the forest in the middle of nowhere to find the barn.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Carrera_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Carrera_Barn.jpg",
+        "text": "Above is the precise location you'll find the 911 on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1968 Renault 4L Export\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/4L.jpg",
+        "text": "we'll show you where to find the 1968 Renault 4L Export Barn Find. This classic rally car has good offroad capabilities, but not too much else to write home about.",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks when you purchase La Cabana, one of the player houses in Forza Horizon 5. Once you unlock it, the barn is found out in the desert east of La Cabana.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/4L_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/4L_Location.jpg",
+        "text": "Above is the precise location you'll find the 4L Export on the map.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/4L_Barn.jpg",
+        "text": "You're looking for this unmarked dirt trail. It can be tough to spot, but it leads to the barn.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1993 Toyota\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Baja.jpg",
+        "text": "we'll show you where to find the 1993 Toyota #1 T100 Baja Truck Barn Find. This offroad monster is perfect for anything that takes you off of the track.",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. Once you unlock it, you'll find the Baja's barn southeast of the De Otro Mundo landmark. On the map, you'll notice two crop circles, you want to head to the southern one.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Baja_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/Baja_Location.jpg",
+        "text": "Above is the precise location you'll find the Baja on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1962 Ferrari 250 GTO\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/GTO.jpg",
+        "text": "we'll show you where to find the 1962 Ferrari 250 GTO Barn Find. While this 250 GTO is certainly showing its age, it does have solid speed if you choose to use it.",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. With it unlocked, you just need to head east of the Los Jardines landmark. Keep in mind that this one takes quite a long time to finish up. Be prepared to wait before you get a chance to test it out.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/GTO_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/GTO_Location.jpg",
+        "text": "Above is the precise location you'll find the 250 GTO on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "1956 Ford F-100\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/F100.jpg",
+        "text": "we'll show you where to find the 1956 Ford F-100 Barn Find. This old-school pickup has a decent offroad rating, but nothing else. Consider this a car to break out purely for the looks.",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "This Barn Find unlocks randomly as you progress through Forza Horizon 5's story. Once you unlock it, head east of the El Estadio Horizon. As with many Barn Finds, you'll find it sitting in the middle of nowhere.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/F100_Map.jpg",
+        "text": "If you need some help finding the exact location, make sure to check out the images below to give you a better idea of what you're looking for. Make sure to use the drone if you're having trouble tracking it down.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/F100_Drift_Zone.jpg",
+        "text": "Above is the precise location you'll find the F-100 on the map.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideForzaHorizon5/F100_Location.jpg",
+        "text": "If you've unlocked PR Stunts, you'll notice this Drift Zone on your approach. Take a right offroad to see the small compound surrounding the barn.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Cheats and Secrets\n",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Get Lots of Money Without Playing\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "There are a few ways to get money/credits in Forza Horizon 5 without actually playing. In many cases, it involves changing your settings to enable the car to auto-steer / and then using a rubber band on your controller to just keep going and finish challenges and races for you.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The Following Exploits No Longer Work as of November 17, 2021\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "UNLOCK CARS THAT AREN'T YET AVAILABLE FOR PURCHASE\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Or: How to Get a DeLorean in Forza Horizon 5 right now!\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "There are a number of cars that aren't yet available for purchase and are time-unlocks that are added to Forza's in-game storefront over time. If you're wondering how to buy the iconic DMC DeLorean, a 1953 Corvette Forza Edition, or a Wrangler Unlimited right now, you can exploit a car collection glitch to be able to buy them right now.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "To make locked out cars available for purchase, you need to access your Car Collection from the menu. Look for cars listed in the first (or only) spot for each manufacturer that don't have a Purchase (Y) shortcut at the bottom of the screen, such as the DeLorean. Highlight the panel with the car, then exit out of the collection menu and come back in.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The last selected panel (in first position) will still be highlighted, but now the \"Y to Purchase\" shortcut will appear at the bottom of the screen. Simply hit Y and you'll get the purchase menu option and you can buy the car and add it to your collection.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ]
+
+  }
+}

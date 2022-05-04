@@ -1,0 +1,5024 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+
+      "Active_Ads": "ironsource",
+		  
+      "IronSource_App_Key": "12672bf4d",
+	  
+      "IronSource_interstitial": "DefaultInterstitial",
+      "IronSource_banner": "DefaultBanner",
+	  
+      "Startapp_id": "xxxxxxxxx"
+		
+      }
+
+    ],
+
+    "items": [
+      {
+        "title": "How To Start",
+        "image": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_szenario_karolinger.jpg"
+      },
+      {
+        "title": "Game Start Checklist",
+        "image": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_beeinflussen_komplott.jpg"
+      },
+      {
+        "title": "Gold, Prestige, Piety and Fame",
+        "image": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_pilgerreise.jpg"
+      },
+      {
+        "title": "Council & Council Tasks",
+        "image": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_ratsernennung.jpg"
+      },
+      {
+        "title": "Expansion of the Realm,Culture...",
+        "image": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_domaenenuebersicht.jpg"
+      },
+      {
+        "title": "Laws, Succession Law, Feudal Con...",
+        "image": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderking3_erbrecht.jpg"
+      }
+    ],
+
+
+    "content0": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "How To Start in Crusader Kings 3 – For Beginners & Pros",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "As a freshly crowned ruler of a smaller or larger realm, you – with the support of your council – are responsible for virtually all aspects of daily life: you take care of building up the military, waging wars, or defending yourself against raiders and attacks from your neighbors, as well as constructing new castles, temples, and cities. Or you expand existing castles, temples, and cities, and devote yourself to courtly affairs with other princes while ensuring a good atmosphere among your vassals, champions, and within your own family. Of course, you should also have an heir at hand, lest the game ends after the death of your current ruler.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Crusader Kings 3 is exceptionally complex – but our guide will accompany you from the beginning of the game all the way up to the global empire. First, use the checklist to get a general idea about the priorities of the stewardship of a realm. Ideally, you should combine our checklist with the in-game tutorial, which lets you take your first steps as the ruler of a small realm on the island of Ireland and familiarizes you with the controls and basic functions. You will find further information on the central aspects of the game in the various other sections of our guide.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "*Note : The game tutorial is also worthwhile for Crusader Kings 2 veterans since it teaches the basic functions in a compact manner – some things are different from the predecessor, so it’s the easiest way to get around.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Layout of the Game Interface\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/dlkmslfkdmslfksmdfkl.png",
+        "text": "You can navigate to the different areas on this interactive map to get a better understanding of the game interface. The respective tooltip reveals what you will find there.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Player Character & Starting Year\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "At the start of the game, you can choose between starting in the years of 867 AD or 1066 AD. You can also choose between prefabricated conflict scenarios and the respective rulers, or a freely selectable, existing ruler from both starting years. In the prefabricated conflict scenarios, you use one of the highlighted rulers, and by clicking on the ruler panel you will get information about difficulty, existing heirs, faith, culture, and a short scenario text for the said character:\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "=> Wrath of The Northmen (867 AD): Ivar the Boneless (Duke of the Isles), Björn Ironside (Duke of Uppland), Halfdan Whiteshirt (Duke of York), Sigurdr Snake-In-The-Eye (Duke of Sjaelland), Earl Alfred (Count of Dorset)\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "=> The Great Adventurers (876 AD): Rurik Rurikid (Duke of Novgorod), Jarl Hæsteinn (Count of Montaigu), Daurama Daura (Countess of Daura), Count Eudes (Count of Anjou), Álmos Árpád (King of Mogyër Confederation)\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "=> The Carolingians (867 AD): Charles the Bald (King of France), King Lothair II (King of Lotharingia), Ludwig the German (King of East Francia), Prince Karlmann (Duke of Bavaria), King Louis II. (King of Italy)\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "=> The Fate of England (1066 AD): King Malcolm of Scotland (King of Scotland), King Svend of Denmark (King of Denmark), William the Bastard (Duke of Normandy), Harald Hardrade (King of Norway), King Harold of England (King of England)\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "=> Rags to Riches (1066 AD): Petty King Murchad (Duke of Munster), Duke Vratislav (Duke of Bohemia), Emir Yahya (Duke of Toledo), Duchess Matilda (Duchess of Tuscany), Duke Robert (Duke of Apulia)\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_szenario_karolinger.jpg",
+        "text": "=>  Iberia in Pieces (1066 AD): King Alfonso VI. (King of León), King Sancho II (King of Castille), King García (King of Galicia), King Antso IV (King of Navarra), Infanta Urraca (Countess of Zamora)\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "If you click on the button “Play as any Ruler in 876/1066“, you will be shown the selected character’s traits, culture, faith, as well as difficulties such as missing heirs, state of war, debts, and the like. Here you may also select the difficulty of the game (from ‘very easy’ to ‘normal’) and adjust further game parameters.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   If you activate the “Ironman” mode and continue to play the game without altering the default settings, you can try to gain some Steam achievements.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Open the game menu (via the cogwheel button at the bottom right of the screen) and click on the “Switch Character” option, if you want to try out a different ruler in an ongoing singleplayer game. Afterwards, the overview map opens, in which you can pick the desired ruler character.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content1": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Crusader Kings 3: Game Start Checklist ",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "When starting a game with a new ruler, you must first familiarize yourself with the basic situation of this character, his family, and the area he controls. The following checklist will focus on the ruler and his heir, his court, and the important vassals until you finally get an overview of the general situation in your realm.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Ruler and Heir\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Is the ruler married?\nIf not, find one (or several) spouse(s) for your ruler – perhaps one that will even make an alliance possible. Is there an heir? If not, your primary aim should be to conceive a child with your spouse. Use a sway or romance scheme (right-click on the spouse) to increase the opinion values of your husband or wife. If an existing spouse is too old (over 40), infertile, and/or chaste, then divorce would not be a bad idea as there is not much of a chance to get any heirs.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Is an existing heir married?\nIf not, look for a spouse for your ruler’s heir as well. You will learn more about Marriage Politics and Alliances in later sections of this guide.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Which ability values does the ruler have, and are there strengths and weaknesses?\nChoose a lifestyle that matches the character’s skills and education in order to begin collecting lifestyle experience points as soon as possible and to unlock the first benefits. You will learn more about Skills and Lifestyle later on in this guide.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_beeinflussen_komplott.jpg",
+        "text": "How much Money, Prestige, Piety, and Fame do your ruler possess, and how much is added each month?\nIn the upper right corner of the overview screen, you can see the current stats of your ruler. Is there a negative figure somewhere? If you lose gold, move the cursor over the figure to find out what may be causing the loss (for example: if a ruler is at war and has troops in the field whose maintenance exceeds his monthly earnings). Loss of Piety and Prestige can usually be tracked by looking at traits and current modifiers in the character window (line below the character image).\nYou can find more information about how to increase these Resource Values in the respective section.\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Council, Vassals and Court\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Is the Council (F4) complete and staffed with competent persons?\nEmpty council positions should always be re-assigned, ideally with council members whose skill value (fitting for their position) is at least 10 or more. You should favor council members who have a positive opinion about you and you should also use your spouse to help you rule. You will learn more about the Council in later sections of this guide.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How is the relationship of the Realm Priest/Court Chaplain to your ruler?\nIf the opinion score is negative, move the cursor over the bishop’s cap in the lower right corner of the council window of your Realm Priest/Court Chaplain. Should it be noted there that you will be denied decisions and taxes because of a lack of support from the Court Chaplain/Realm Priest, either start a sway scheme or send a gift to improve the opinion values until the opinion values are higher than +1.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Is there a Court Physician?\nIf not, then use the decision (F8) “Call Physician” to call competent people to the court, among whom you select a suitable candidate. A Court Physician helps in case your ruler or a member of the ruling family falls ill.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "What opinions do the mighty vassals have of your ruler?\nOpen the Realm overview (F1) and scroll through the vassal list. Particularly important are the powerful vassals (marked with a red, clenched fist next to the character portrait). You should try to improve red (negative) opinion values by using a sway scheme. Priority should be given to the powerful vassal with the worst value. If you have enough money in stock, you can start earning points early by sending them gifts.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_fraktionen.jpg",
+        "text": "Do factions exist within your realm?\nOpen the Factions window (F7) and check if there are currently any vassals or parts of the population that are so dissatisfied with your ruler that they start organizing as a faction. You should give special attention to the leaders and participants of factions when it comes to sway schemes and monetary gifts, in order to increase their opinion as fast as possible and thus cause the factions to dissolve!\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Realm, Religion and Military\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How large is your domain, and are there any penalties for a domain that is too large?\nMany rulers with a high-ranking title start with too many directly stewarded counties/titles, which results in significant decreases in the opinion values of the Steward and the vassals. Look around your Court (F5): Courtiers without a title, but with a positive opinion of your ruler and at least ‘bad’ skill values should be given preference when granting surplus titles. Right-click on a courtier and use the option “Grant Title”.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "What are the Tenets and Doctrines of your religion?\nOpen the religion overview (center button with religion icon, right next to your ruler’s portrait at the bottom of the screen) and check how your ruler’s religion views adultery, divorce, marriage, and more. Doctrines marked with “Crime” make a character who doesn’t abide by them and gets caught, a criminal!\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "What culture do the counties in your realm have, and what religion do the citizens adhere to?\nFirst, check to which culture your ruler belongs (in the ruler overview window) and then examine whether the culture of your counties (in the culture overview map, bottom right in the game window) is a good match – different cultures lower the public opinion in the individual counties and cause unrest! With the councillor task “Promote Culture” performed by your Steward, you can adapt counties with a foreign culture to the culture of your ruler. The same applies to religion: If the people believe in something else than the ruler, that will lead to a decrease of the ruler’s reputation in the popular opinion. Your Court Chaplain/Realm Priest hunts down unbelievers in the the respective county if you give him the task “Convert Faith in County”, and over time he will convert all citizens. Both tasks will be accomplished more efficiently if the values of your council members in Learning (Court Chaplain/Realm Priest) and Stewardship (Steward) are high.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How big is the military?\nOpen the Military window and see how large your levies are, how many champions you have at your disposal and whether your ruler has Men-at-Arms (who need to be paid even in times of peace). Open the Champion window by clicking on the Champion picture and examine the Prowess of the available champions. Values of 10 and higher should be available. If these are not reached, use the “Invite Champions” decision to call recruitable guests onto your court. More information about Wars can be found in later sections of this guide.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Can you extend your empire?\nTake a look around in your counties if you have a small military or a low income of gold. Click on the tab “Domain” in the realm overview (F1). Here you can see the counties that you control directly, where you can build, and whether there are free holdings available. Double-click on the Coat of Arms of the county to centralize the view on the most important settlement. Click on the name of the settlement on the map or the name of the settlement in the Domain list to open the respective overview window. Here you can see available building sites and other important information. If you click on a free building site, it will show you what you can build there, how long it would take to build it, what bonuses the completed building would bring, and how much it would cost.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "What other hints does the game give?\nTo the left of the “Gold” value at the top of the screen is the “Issues” icon. When clicked, it will show you the options that are available to you based on your existing title entitlements, problems at court, and other opportunities.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Gold, Prestige, Piety and Fame\n",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The possibilities of a ruler are determined not only by his attributes but also by acquired resources. His gold supply, as well as the amount of prestige, fame, and piety, offer you more advanced game options, which is why you must make sure that the income of these resources increases steadily.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Gold",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Use gold to buy new properties and buildings in your provinces or upgrade them to higher levels with better bonuses. Gold gifts significantly increase the opinion of other characters about your ruler.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Armies at war need to be maintained and the higher quality regiments of warriors need to be paid even in times of peace. Gold also allows you to bring new people with high character values to your court or to pay for decisions such as hunts or feasts.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How to increase your Gold Income\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Higher tax income: Build city holdings or buildings (Forestry, Quarries, Pastoral Lands, Tradeports, Manor Houses, Farms & Fields, Orchards, Tax Offices, Desert Agriculture, Guilds) to increase your counties tax revenue.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Collect Taxes: Let a council steward with a high stewardship value perform the council task “Collect Taxes” to collect a higher percentage of taxes from your domain.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Raid your neighbors: If you have the option “Raise All as Raiders” in the military window, you can raid your neighbors and try to rob their treasures. More about this in the section “Warfare and Looting“.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Increase Stewardship skill: Since taxes generated from your holdings also depend on the Stewardship skill, you should keep it as high as possible or focus on increasing it.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Asking the Head of Faith for gold: If your ruler has a religion with a Head of Faith who has a good opinion of your ruler, you may very well ask for a subsidy.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Payment for leverage: If your Spymaster has discovered secrets of your subjects, you can silver this leverage to the respective person with the perk “Golden Obligations” (Stewardship/Avaricious).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Blackmailing subjects: With the perk “It is MY domain” ( Stewardship/Avaricious) you can get extra gold from a subject by using the decision “Blackmail target”.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Lifestyle Focus: Use the Stewardship Lifestyle Focus “Wealth Focus” to increase your monthly tax revenue by 10%.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Lifestyle Path “Avaricious”: Skill all the perks of the Stewardship Lifestyle “Avaricious”, because of the Lifestyle trait “Avaricious” that becomes available at the end of the Lifestyle path and which increases your holdings taxes by 15%.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Prestige",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Prestige combines familiarity and social standing of your character. The more prestige a character gains over the course of his life, the more likely he is to advance to the next level of fame, which in turn has a direct effect on the reactions of other rulers and characters. Rulers of tribal societies use prestige to buy buildings for the expansion of their possessions.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Declarations of war cost prestige as well as the enactment of new laws and inheritance laws, the adoption of the feudal way of life or the conversion of your ruler to a local culture, the creation of new titles and the founding of universities and new kingdoms or empires. The higher your fame level, the more knights you can add to your retinue.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How to Increase your Prestige Income\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   More prestige through buildings: Build assembly halls (Tribal Realms) or orchards (Feudal and Clan Realms) for a small monthly prestige bonus.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Prestige income through innovation: Explore the innovations “Hereditary rule” (Early Middle Ages) and “Heraldry” in the High Middle Ages for five percent more prestige each month and “ermine coats” in the Late Middle Ages for a monthly prestige plus of ten percent.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Call Hunt: Use the decision “Call Hunt” and pay the required fee to go on a search for particularly rare prey. If the hunt is successful, you will be rewarded with a small prestige bonus.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Foreign Affairs: Have your Chancellor perform the “Foreign Affairs” council task. Your ruler receives a bonus of Prestige per month depending on his diplomacy value.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Carry out successful wars and raids: Successful wars and raids earn your ruler Prestige. Try to acquire new lands or loot from your neighbors in any case, if the Casus Belli and the balance of power favor you.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Making decisions that earn you prestige: During the life of your character, there may be situations where you will be able to make decisions that promise to give you Prestige. Use the appropriate response option to increase your Prestige.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Lifestyle Focus: The Diplomacy Lifestyle allows you to choose the “Majesty” focus to receive a 1.0 Prestige bonus per month.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Lifestyle Path “August”: Choose the Diplomacy Lifestyle Path “August” and skill several perks that promise to increase your Prestige: “Inspiring Rule” increases your monthly Prestige by five percent for every powerful vassal in the council, “Firm Hand” increases your monthly Prestige by one percent for every terror, “Praetorian Guard” increases your monthly Prestige by two percent for every knight. If you skill the Lifestyles Path to the end, the trait “August” will earn you an additional 1.0 prestige per month.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_pilgerreise.jpg",
+        "text": "Lifestyle Trait “Gallant”: Follow the Martial Lifestyle tree to the end and unlock the trait “Gallant”, which will add a whopping 20% more Prestige per month.\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Piety",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The piety value of a character indicates how virtuously he acts according to the doctrines of his own faith. For every action he performs in accordance with these doctrines, his piety grows. For example, in a religion where human sacrifices are performed, this can be the capture, imprisonment, and execution of strangers! With piety, you can consecrate the bloodline of your character, found a warrior order, introduce new doctrines and principles in a faith reformation, or found a new kingdom or realm. Some decisions also require a certain amount of piety.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The more devoted a character is, the higher his level of devotion becomes. This directly influences the opinion of the clergy of the faith that the character practices.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How to increase your income of Piety\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   More piety through buildings: Build a temple holding and build a monastery within it. Although it is the only building that can give you a piety bonus, a monastery can be built in each temple holding.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Piety through Innovations: The early medieval innovation “Reconquista” increases your monthly piety bonus by ten percent, but is only available for cultures from the Iberian Peninsula. The Innovation ” Divine Right” (High Middle Ages) grants all cultures ten percent piety per month.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Religious relations: Have your Realm Priest/Court Chaplain perform the council task “Religious Relations”. This will increase your monthly piety according to the educational ability value of the Realm Priest / Court Chaplain.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Choosing decisions that bring piety: From time to time, your character will be confronted with decisions concerning the virtues and sins of his faith. If you make decisions that are virtuous for your faith, an increase in piety is likely.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Successfully wage a great religious war: If the faction in which your ruler fights in a great religious war wins, abundant amounts of piety will be offered as a reward.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Go on a Pilgrimage: Let your character travel to one of the holy sites of his faith. The further he travels, the more piety he can receive. However, longer journeys are more expensive (at least 50 gold) and you have no influence on government business during your character’s absence.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Lifestyle focus: The Learning Lifestyle allows you to take advantage of focus “Theology” and gets you 1.0 piety per month.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Lifestyle Path “Theologian”: Within the Learning Lifestyle Path “Theologian” you may increase your piety income by one percent per knight by choosing the perk “Prophet”. If you complete the path and your character receives the trait “Theologian”, your monthly piety income will be increased by another twenty percent.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Renown",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_dynastie_vermaechtnisse.jpg",
+        "text": "Your character shares this value with all other members of his dynasty. Renown is similar to Prestige in effect and increases the level of splendor of the dynasty as a whole. The number of living members, the number of rulers, and the number of spouses of other rulers are included in the renown value. If a ruler has a feudal lord of the same dynasty, he does not add any renown.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "If a dynasty is spread across different realms, it generates more renown than a dynasty that is limited to a single realm. With Renown, you unlock Dynasty Legacies that apply not only to your ruler but to all members of the dynasty equally.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Dynasty Legacies\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "With the Renown earned by all dynasty members, you unlock dynasty-spanning perks that you select from seven different categories. If your character is not the Dynasty Head, and if a Renown Limit that is necessary to unlock a new legacy is exceeded, the Dynasty Head, who is controlled by the game, will choose a suitable legacy.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Council & Council Tasks in Crusader Kings 3\n",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Each ruler, regardless of the size of the controlled territory, is supported by a council consisting of six people. You can assign five of them to three different tasks, each in accordance with their job, while the sixth person is the spouse of your played character, who assists him or her in the affairs of dominion.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Overview of the Councillor Tasks\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Spouse: The spouse of your ruler assists him in the ruling business.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Realm Priest/Court Chaplain (Learning): The Realm Priest is responsible for all religious and spiritual affairs of the realm.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Chancellor (Diplomacy): The Chancellor devotes himself to diplomatic efforts within and outside the realm.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Steward (Stewardship): The Steward is responsible for the Stewardship of the domain in terms of taxation, culture, and development.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Marshal (Martial): Your Marshal is both the commander-in-chief of your troops and also responsible for general military duties.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Spymaster (Intrigue): The Spymaster takes care of all courtly intrigues such as schemes and general espionage.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Always make sure that your ruler is supported by a complete and competent council, so that he can manage the realm effectively! Council members with low values in the skill that underlies their field of activity, significantly increase the chance of failure. You can detect this by looking at the mouseover information window, where you can see negative “Possible Side Effects” highlighted in red. Higher skill values (of the council members) result in more green marked and thus advantageous possible side effects.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_ratsernennung.jpg",
+        "text": "Lifestyle perks significantly enhance the efficiency of the tasks performed by members of the council. You should unlock available perks; if possible within the Lifestyle chosen for your ruler! You will learn more about Lifestyles and Perks later on in this guide.\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Possible Problems encountered when compiling the Council\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "  No persons with sufficiently high values present at the court: Use the tab “Court” (F5) and have a look among the guests. Particularly capable candidates for certain posts such as Marshal or similar are specially marked. You can invite them in exchange for a suitable fee and appoint them to your court. Alternatively, you can use the decisions “Invite Knights”, “Invite Claimants” or “Call Physician” to invite random people to your court and look for suitable candidates among them.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Small selection of possible candidates for the council: There is often a lack lack of choice at small farms in particular. Find unmarried courtiers and arrange a marriage for them with spouses who have sufficiently high skill levels. As soon as the spouse has arrived at court, you can place him/her in the appropriate position. Attention: Female courtiers will most likely leave your court in case of marriage.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Incompetent but powerful vassals want to become council members: If you have powerful vassals who are eager to become a council member, you should always fulfill such wishes whenever possible – unless the vassal’s stats are so bad, that you are likely to receive failed councillor taks constanly. Dissatisfied, powerful vassals will brin you a -20 Opinion deduction if you do not accept them into the council. So you must either influence them with personal schemes, appease them with monetary gifts, or let the current Chancellor create a good atmosphere (with the task “Domestic Affairs”). The Perk “Likeable” (Stewardship/Administrator) increases the opinion of direct vassals about the ruler by an additional ten points. Alternatively, vassals can be intimidated by focusing on “Intimidation” (Intrigue/Torturer) to increase dread to such an extent that they do not dare to rebel against you, even if they are dissatisfied.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Too many powerful vassals requesting council posts, but there are not enough available posts: The larger the realm becomes, the more likely it is that the number of powerful vassals will exceed the number of available posts. The only way to help, is to use the most competent vassals and to appease the others with personal schemes and/or monetary gifts. You can’t satisfy everyone anyway, so you might as well give preference to efficiency.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The Council Tasks in Detail\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Spouse\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Select one of the five areas for the spouse of your ruler: Court Politics (Diplomacy), Chivalry (Martial), Manage Domain (Stewardship), Court Intrigue (Intrigue), or Patronage (Learning) in the “Assist Ruler” drop-down menu. A part of your spouse’s skill value is added to your ruler’s skill value, thus granting a small to significant skill value bonus. Smaller events of your own with influence on the realm can be triggered based on the selected focus.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Realm Priest / Court Chaplain\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "In the case of a theocratic faith, all temple holdings of your realm are automatically leased to the realm priest. If the realm priest has a negative opinion of your ruler, the ruler will not receive any troops or taxes. The higher the opinion, the more troops, and taxes the ruler receives. Only in faith with lay priests do you control temple holdings (and their advantages) directly. The name of the clerical council member is then Court Chaplain.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The opinion of the Realm Priest about your ruler is additionally increased by +50 through the perk “Church and State” (Learning/Theologian).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Tasks of the Realm Priest:\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Religious Relations: This task increases the monthly Piety growth of the ruler, and, when successfully performed, the opinion of the vassals about the ruler’s character also increases.\nIs strengthened by the perk “Clerical Justifications”(Learning/Theologian).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Convert Faith in County: If there are counties within your domain that do not adhere to the prevailing faith, you can place your Realm Priest on the map in said area to begin the conversion of the county.\nIs strengthened by the perk “Zealous Proselytizer” (Learning/Theologian).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Fabricate Claim on County: Your Realm Priest tries to fabricate a claim on another county. If this succeeds, you will receive a “Dropped Claim”, which gives you a Casus Belli and thus an opportunity for a war of conquest.\nIs strengthened by the perk “Accomplished Forger” (Diplomacy/Diplomat).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Chancellor",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "As the diplomatic backbone, the Chancellor plays a crucial role in strengthening relations between the ruler character and his vassals. He complements your opportunities for influence through personal schemes that have a wider reach.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Tasks of the Chancellor:\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Foreign Affairs: With this task you will increase your monthly prestige gain. In addition, the opinions (about your ruler) of vassals living outside of the realm are increased a little bit. It is also possible to shorten truces.\nIs strengthened by the perk “Adaptive Traditions” (Diplomacy/Diplomat).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Domestic Affairs: This will slowly but steadily increase the vassals’ opinion of you. This option is especially important when a new character has just begun ruling but does not have a positive relationship with the vassals. Chancellors can also use this option to end internal wars.\nIs strengthened by the perk “Chains of Loyalty” (Stewardship/Administrator).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Integrate Title: This option is only available to your Chancellor if you rule a kingdom or empire. This way, you support the consolidation of the realm if foreign titles are to be added after a conquest.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Steward\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "“Money is the key to success” applies in particular to the work of the Steward: The work of the Steward is indispensable for the development and expansion of your realm. Make sure you use a competent Steward – after all, you can always use more gold, even if you don’t invest it into the expansion of your holdings!\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Tasks of the Steward:\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Collect Taxes: With this action, your Steward will (at a percentage corresponding to his stewardship value) collect higher taxes in your realm – or, if the base value is bad, cause corruption in the community!\nIs strengthened by the perk “Tax Man” (Stewardship/Architect).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Increase Development in County: Reduces the construction time of buildings and holdings and grants a developmental growth bonus based on the stewardship value of the Steward.\nIs strengthened by the perk “Planned Cultivation” (Learning/Scholar).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_ratsspitzelaufgabe.jpg",
+        "text": "Promote Culture: If counties belong to a culture that differs from that of the ruler, the Steward either encourages the transition to the ruler’s culture or reduces the cultural influences exerted by the culture of the feudal lord.\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Marshal",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Your Marshal makes sure that the influx of soldiers is not cut off and he also trains your Commanders. Without a Marshal with a Martial value of ten or more, your realm’s defense is weakened! Especially when it comes to training Commanders, you should be extremely careful when dealing with an incompetent Marshal, because failures can lead to the injury, mutilation or even death of Commanders.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Tasks of the Marshal:\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Organize Levies: When used successfully it increases your troops’ deployment size, garrison size and reinforcement rate.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Train Commanders: With this task the Marshal dedicates himself to the training of the Commanders (Knights, Champions, and so on). If he is successful, the trained Commander receives either +1 Martial Skill, +1 Combat Skill or a Commanding Ability.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Increase Control in County: Once you have conquered new territories, you must first bring them under control in order to be able to obtain taxes and levy from a war-ravaged country. The Marshal placed in that area on the map provides steadily increasing control of said area.\nIs strengthened by the perk “Strict Organization” (Martial/Overseer).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Spymaster",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "You can hardly afford to have a Spymaster who holds a negative opinion: With his ability to control schemes and other espionage activities, he can easily camouflage his own hostile actions against you and at the same time become a valuable agent for schemes. Make sure that the council spy at least has green opinion values regarding your ruler.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Tasks of the Spymaster:\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Disrupt Schemes: With this action, the Spymaster increases the resistance against hostile schemes and also gets a chance to detect hostile schemes (based on his Intrigue Skill value).\nIs strengthened by the perk “Court of Shadows” (Intrigue/Schemer).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Support Schemes: If you have hostile schemes in the works yourself, your Spymaster will actively support their advancement. The higher your Spymaster´s intrigue Skill value is, the more significant the advancement bonus will be.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Find Secrets: Place your Spymaster on the map within the territory of the realm to assign him the place where he is to rummage through the dirty laundry of others, so that he can find some leverage against vassals or other courtiers. If you succeed, you will receive a weak Hook, with which you can force the person in question to decide in your favor.\nIs strengthened by the perk “Digging for Dirt” (Intrigue/Schemer).\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Expansion of the Realm, Culture, Innovations & all Buildings\n",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Without a functioning realm, your ruler will be weakened: New buildings will not only strengthen the defense of your realm. You can also raise more and different troops for battle, generate higher tax revenues, gain more increases of piety as well as development and prestige, and also improve the abilities of your soldiers across the realm. It is therefore worthwhile to invest your gold regularly into new buildings and to establish new holdings in undeveloped regions.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "These Government Forms exist in Crusader Kings 3\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Tribal Realm (tribalistic)\nTribal kingdoms can only develop to a limited extent and cannot establish any other holdings apart from a Tribal Hold in a county. They can only discover the innovations of the tribal epoch and cannot change their succession laws. In a tribal realm, rulers can pay prestige instead of gold for the expansion of buildings and the hiring of Men-at-Arms, and tribal realms also have access to more Casus Belli than feudal realms. Non-tribal armies suffer a Supply Limit penalty in hostile tribal realms.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Feudal Realm\nIn a feudal realm, a liege grants land to vassals, which they can govern independently, while he receives levies and taxes in return. The amount of the payments and soldiers is regulated by the Feudal Contract between the liege and the vassal, and can be – depending on the acquired innovations – extended.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Clan Realm\nAs in feudal realms, there is a Liege-Vassal relationship that regulates the ruling in clan realms. Here, however, the opinion of the vassals about their liege decides how many soldiers and taxes they are willing to give. With the Crown Authority, however, a liege can increase the basic amount of levies and taxes he is entitled to.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_domaenenuebersicht.jpg",
+        "text": "Open the Realm Overview (F2) and select the “Domain” tab to see all counties directly controlled by you. Next to the name of the county, the current Development value and the increase of control of the county is shown. Next to the county’s holding (usually a castle), the taxes and armies that you have received are displayed. Next to it you can see how many new holdings (castles, towns, temples) can still be built on free spots in the county. Each new holding costs 600 gold.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Each holding contains up to four building slots where you can erect various buildings. The county territory also determines the type of available buildings. Their bonuses affect the holdings or the county. Soldier bonuses from military buildings like Wooden Barracks are valid throughout the realm.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Realm Capitals (where rulers, for example dukes and their court reside) get up to two additional special building slots, where you can erect princely buildings. Their bonuses affect all holdings of the associated duchy or even the whole realm.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "These Holdings can be build on Empty Terrain\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Castle: Castle: Expanded castles improve Fort Level, Levies and Garrison Strength, as well as moderate tax revenues. Defensive fortifications increase the Fort level and the Garrison Strength of the holding.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   City: Expanded cities grant you higher tax revenues, more Levies and higher Garrison strength. Guilds provide your ruler with additional tax revenue and Development Growth for the county.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   Temple: Upgraded temples earn you higher tax revenue, more Levies and increase the Garrison strength. Holy buildings earn your ruler additional Piety.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Among the buildings that can be constructed in Crusader Kings 3, we distinguish between the three characteristic main buildings (Castle, City, Temple) of a holding and the Standard Buildings, Special Buildings, Duchy Buildings and Historical Buildings that can be constructed within the holdings. Which Standard Buildings you can construct within holdings depends on the terrain. For example, you can only build Tradeports along coasts, Quarries in mountainous terrain, and so on.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " If you are not satisfied with the bonuses of the buildings already constructed, replace a building by paying the gold price for the first level of the new building (after clicking the button with the two arrows in the building info window). Any further upgraded stages of the previous building will be lost in the process!\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "As ruler of a realm, you can not only erect buildings in the directly ruled counties, but also support vassals by constructing new buildings, provided you have enough gold. This is especially worthwhile if you want to strengthen the defense of peripheral areas of your realm or if you run out of room for buildings in your own counties, but whose bonuses are important for the realm.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Bonuses of erected buildings affect the following surroundings:\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Holding: A building bonus only supports all other buildings in the holding where the building was built. In the holdings overview, this includes all other building fields, no matter whether Standard Buildings, Special buildings, Duchy Buildings or Historical Buildings.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " County: The county bonus of a building includes all holdings of the county together with the buildings in which the building was erected.\n  ",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Duchy: A duchy-related bonus applies to all holdings of the duchy and subordinate counties and the buildings erected within them.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": " Realm: A realm bonus affects all holdings belonging to the realm and all buildings erected in it without exception.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Culture, Development, Innovations\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Your possibilities for the expansion of holdings and buildings depend greatly on the cultural development of your realm. The ruler who controls most of the counties of the same culture within your realm is considered the Culture Head. In most cases, this is the player character. As the Culture Head, you decide which innovation should be developed next: Open your Culture window (right of the three buttons next to your ruler’s portrait image, at the bottom left of the screen). Your Culture and Era (Tribal, Early Medieval, High Medieval, Late Medieval) will be displayed here.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Development",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_grafschaft_entwicklung.jpg",
+        "text": "Development refers to the already existing local infrastructure coupled with the technological progress of a county. Higher development increases a county’s Levies, possible Taxes and Supply Limit. On the Development map (accessible via the “+” in map mode) you can see on the world map which counties are at which stage of development: The lighter the color, the more developed the county is. Move the mouse pointer over a county to display the Development in the info window.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Development Growth determines how long it takes for the county to increase its development level. Once Development Growth reaches 100, the development level increases by 1. The greater the development level of a county is, the slower it progresses. The councillor task “Increase Development in County” is also subject to this law.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "By default, counties reach the highest existing development limit at 10 Development, but it can be elevated further through an Innovation in each of the four eras (Public Works, Communal Government, Urbanization, and Renaissance Thought).\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Overview of all Cultural Innovations\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "In each era you can explore a range of military, civil and cultural-regional innovations and unlock them for your culture. Each innovation either offers a bonus or grants new erectable buildings, laws, Casus Bellis, combat techniques or troop units. While tribal realms are limited to the innovations of the tribal era, clan and feudal realms can explore all innovations, as long as their development is sufficient for it. Cultural-regional innovations are only open to the culture mentioned in each case, as is the case with “War Elephants” for cultures in India and Southeast Asia.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The research of new innovations takes place passively over time: Every month there is a chance to get a small progress on every innovation of the current era. If you move the mouse pointer over an Innovation, you can see the research progress to date as well as the percentage chances and the estimated research duration. If you, as the Culture Head, define a Cultural Fascination – an Innovation that is highlighted as a “Fascination” in the lower part of the Culture Window – you will receive a bonus on the development of this Innovation, depending on your character’s base Learning skill value.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "   With the perk “Scientific” (Learning/Scholar) you can increase the progress of the Cultural Fascination by 35%.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Tribal Era",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Military Innovations\n\nMottes: Unlocks all Tribal Era Fortification Buildings\nBarracks: Unlocks all Tribal Era Military Buildings\nBannus: +15% Levy Reinforcement Rate\nOnager: Can recruit Onager Men-at-Arms\nMustering Grounds: +2 Size of Men-at-Arms Regiments, +1 Max number of Men-at-Arms Regiments\nQuilted Armor: Can recruit Armored Footmen Men-at-Arms\nCivic Innovations:\n\nPublic Works: Counties reach the maximum Existing Development penalty at 20 Development\nGavelkind: Can enact the Confederate Partition Law\nCity Planning: Unlocks the following buildings: Village Center, Shrine, Prayer Halls, Trading Outposts\nPlanned Assemblies: Unlocks Fortified Tribal Hold, and you can enact Limited Crown Authority Law\nCurrency: +10% Monthly Development Growth\nCrop Rotation: Unlocks all Tribal Era Economic Buildings\nCasus Belli: Can use De Jure County Casus Belli\nLedger: +1 Domain Limit\nCultural and regional Innovations:\n\nCulture-specific Man-at-Arms: Depending on the selected culture, this value includes a specific type of Men-at-Arms that uses a combat tactic, typical of that culture; the name of this innovation is based on the name of the Men-at-Arms\nElephantry (India and South East Asia): Can recruit War Elephants as Men-at-Arms\nWootz Steel (Deccan India): +2 Heavy Infantry Damage, +2 Heavy Cavalry Damage, +1 Prowess\nLongships (Northern Europe): Unlocks the ability to Raid over seas, if Raiding is allowed, unlocks the ability to sail in Major Rivers, -75% Embarkation Cost%, +25% Naval Speed\nWar Camels (Middle East, North Africa or Persia): Can recruit Camel Riders as Men-at-Arms\nWest African Canoes (West Africa): Unlocks the ability to Raid over seas if Raiding is allowed, unlocks the ability to sail in Major Rivers, -75% Embarkation Cost, +10% Raid Speed",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Early Medieval",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Military Innovations\n\nBattlements: Unlocks all Early Medieval Era Fortification Buildings, unlocks the Fortification Rights Feudal Contract, -5% Men-at-Arms Maintenance\nBuhrs: Unlocks all Early Medieval Era Military Buildings, unlocks the March Feudal Contract, +5% Levy Size\nHorseshoes: +10% Movement Speed\nMangonels: Can recruit Mangonels Men-at-Arms\nHousehold Soldiers: +3 Size of Men-at-Arms Regiments, +1 Max number of Men-at-Arms Regiments\nArched Saddle: Can recruit Armored Horsemen Men-at-Arms\nCivic Innovations:\n\nHereditary Rule: Can enact the Partition Law, +5% Monthly Prestige\nCommunal Government: Counties reach the maximum Existing Development penalty at 35 Development\nRoyal Prerogative: Can enact High Crown Authority Law and Absolute Crown Authority Law\nArmillary Sphere: +25% Naval Speed\nManorialism: Unlocks all Early Medieval Era Economic Buildings. -10% Building Construction Time\nCoinage: Unlocks the Coinage Rights Feudal Contract, +10% Monthly Development Growth\nChronicle Writing: Can use De Jure Duchy Casus belli, -10% Casus Belli Prestige Cost\nBailiffs: +1 Domain Limit\nKulturelle und regionale Innovationen:\n\nReconquista (Iberia): -10% Casus Belli Cost, +10% Monthly Piety\nGhilman (Arabia): -15% Men-at-Arms Maintenance\nStammesherzogtum (Western Germany): +5 Direct Vassal Opinion",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "High Medieval",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Military Innovations:\n\nHoardings: Unlocks all High Medieval Era Fortification Buildings\nCastle Baileys: Unlocks all High Medieval Era Military Building, +15% Levy Reinforcement Rate\nKnighthood: +20% Knight Effectiveness, +5 Direct Vassal Opinion\nTrebuchet: Can recruit Trebuchets as Men-at-Arms\nMen-at-Arms: +4 Size of Men-at-Arms Regiments, +1 Max number of Men-at-Arms Regiments\nAdvanced Bowmaking: Can recruit Crossbowmen Men-at-Arms, +3 Damage for Archers\nCivic Innovations:\n\nHeraldry: Can enact the High Partition Law and the House Seniority Law, +5% Monthly Prestige\nDivine Right: Can press several Claims in a single war, Unlocks the Palatinate Feudal Contract, +10% Monthly Piety, -10% Short Reign Duration, -20% Title Creation Cost\nScutage: Unlocks the Scutage Feudal Contract, +5% Republican Vassal Tax Contribution\nUrbanization: Counties reach the maximum Existing Development penalty at 55 Development\nWindmills: Unlocks all High Medieval Era Economic Buildings, +5% Domain Taxes\nLand Grants: +50% Speed on “Fabricate Claim on County” Councillor Task, -10% Casus Belli Prestige Cost\nGuilds: +1 Domain Limit\nBanking: +10% Monthly Development Growth\nCultural and regional Innovations:\n\nOstsiedlung (Eastern Germany): +15% “Promote Culture” Councilor Task Speed, +15% Monthly Development Growth\nMuladi (Northern Africa): +10 Different Culture Opinion, +10% Monthly Development Growth\nSeigneurialism (Francia): +5% Domain Taxes\nPeerage (Francia): +5 Direct Vassal Opinion, -10 Fellow Vassal Opinion, +10% Vassal Tax Contribution",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Late Medieval",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_innovationen.jpg",
+        "text": "Military Innovations:\n\nMachicolations: Unlocks all Late Medieval Era Fortification Buildings\nRoyal Armory: Unlocks all Late Medieval Era Military Building, +15% Levy Reinforcement Rate\nSappers: -10% Siege Phase Time\nBombards: Can recruit Bombards Men-at-Arms\nStanding Armies: +5 Size of Men-at-Arms Regiments, +1 Max number of Men-at-Arms Regiments\nPlate Armor: +3 Heavy Infantry Toughness, +3 Heavy Cavalry Toughness\nCivic Innovations:\n\nPrimogeniture: Can enact the Primogeniture Law and the Ultimogeniture Seniority Law\nNoblesse Oblige: +5 Direct Vassal Opinion, +5 Fellow Vassal Opinion\nErmine Cloaks: +10% Monthly Prestige\nRenaissance Thought: Counties reach the maximum Existing Development penalty at 90 Development\nCranes: Unlocks all Late Medieval Era Economic Buildings, -15% Building Construction Time\nRightful Ownership: Can use De Jure Casus Belli: Press multiple Claims of another Character in a single war, -10% Casus Belli Prestige Cost\nCourt Officials: +1 Domain Limit\nPromissory Notes: +10% Monthly Development Growth\nCultural and regional Innovations:\n\nWierdjiks (Netherlands): +1% Levy Size, +10% Monthly Development Growth, -10% City Holdings and Buildings Construction Time\nDeccan Unity (Deccan-India): +5 Same Faith Opinion\nCondottieri (Italia): -25% Same Culture Mercenary Hire Cost, +100% Number of Mercenary Companies",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Building Effects and their Meaning\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Each building comes with certain bonuses at each expansion level, which affect your holding, your county or even your realm. The following table explains what each possible bonus is about, since not every bonus is easy to understand.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Screen\tThe combined Screen of an army reduces the number of casualties after a lost battle. So more shielding for troops helps to preserve your defeated troops.\nLevies\tAn army consists of a majority of mostly poorly armed fighters, which become dangerous primarily due to their mass. Each holding generates a certain number of levies, i.e. fighters, for the respective ruler.\nLevy Reinforcement Rate\tTells you how quickly troops that have fallen in war can be regenerated so that you can send them back into battle.\nHolding\tA holding is the central settlement of a barony or county and may comprise a castle, city or temple as its main building. Depending on the type of holding, the title holder receives taxes and levies.\nDevelopment\tDevelopment raises the technological progress and the local infrastructure of a county, which has a positive effect on the amount of taxes and levies as well as the supply limit.\nHostile Raid Time\tExtends the duration of a raid performed by enemy armies that loot and pillage a county, thus making it easier for the native defenders to gather forces with which they can intercept looters.\nFort Level\tFortified holdings have a Fort level that determines how long a siege of this holding by an attacking army lasts. The higher the Fort Level, the longer the siege is likely to last. High Fort Levels also require the use of siege weapons for an effective siege.\nPiety\tThis value indicates how virtuous a character acts in the context of his faith. Monasteries contribute to the piety value of the Liege.\nGarrison\tThe garrison of a holding defends it during sieges performed by smaller armies. Since the besieging army must have more troops than the stationed garrison, a large garrison is an advantage for the defender.\nCounty\tDescribes a county (which is usually consisting of several holdings). The county capital is the main holding of a county and is always owned by the ruler who holds the title of the county.\nControl\tDescribes how well the government is in control of the population of a county. The higher the control, the higher the taxes and levies received from the county. Control is reduced by sieges, peasant uprisings and exchange of the title holder.\nOpinion\tIncrease the opinion value of the designated population group (for example vassals, clergy, population, etc.) about your ruler character by a certain amount.\nPrestige\tPrestige refers equally to the renown and social status of a character. Magnificent buildings increase the prestige of the liege on whose soil they were built.\nKnights\tKnights serve as champions in your ruler’s army and cause additional damage in battle through their power. The more knights your ruler is allowed to have, the higher the generated effect.\nKnight Effectiveness\tAt 100 percent effectiveness, your knights fight in accordance with their values whereas at 200 percent, their damage potential increases as much as if their Prowess skill values were doubled.\nDamage\tThis effect increases the damage value of the designated unit (for example skirmishers) by a certain amount.\nTax/Gold\tEach holding generates a certain amount of gold, which you as the ruler receive either directly because you are the liege of the holding, or you receive a portion of the income, which is passed on to you by one of your vassals.\nSupply Limit\tSpecifies the maximum number of troops that can be stationed in a county. If the sum of your own and the enemy’s troops exceeds the supply limit, the armies lose the supply they brought with them and suffer a penalty on their advantage in battle. If all supplies are used up, an army is worn down and loses troops through desertion, disease or hunger.\nPursuit\tThis effect increases the number of losses a victorious army causes to the fleeing enemy after the battle (by combining the pursuit value of all troops).\nAdvantage\tThe (combat) advantage determines that one side causes more damage in battle than the other side and is made up of modifiers such as terrain, martial skill value as well as the commander traits of the army commander. Defender advantages are automatically applied to the defending army at the start of a battle.\nToughness\tThis effect increases the toughness (and thus the amount of damage a soldier can take in battle before it counts as a loss) of the designated unit (for example archer) by a certain amount.",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Overview of Buildings for Tribal Realms\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Due to their less advanced technological and cultural accomplishments, tribal realms have access to basic buildings, but they can only be upgraded up to the second expansion level. Unlike clan and feudal empires, tribes are only able to improve the strength of special army units and the size of regular footmen in a rather rudimentary way. Tribal buildings are paid for with gold and prestige.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Capitals",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "For tribal realms there is only one possible holding. The Tribe serves both as the center of life and the main defense of a county. If a Tribe has already been built within a county, you cannot build another one.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Standard Buildings\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Due to their limited potential for development, tribes only have access to four types of buildings, which can only be improved up to the second expansion level. If a tribal realm develops further, these are transformed into their feudalistic equivalents.",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Overview of Buildings for Clan and Feudal Realms\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_gebaeudebau.jpg",
+        "text": "Clan and Feudal Realms are more advanced than tribal empires, and their technological achievements give you a wider range of buildings with up to eight levels of expansion, which you can use to increase tax revenues, the strength and stamina of your army types, and the defense of Fortresses and Holdings. Buildings of Clan and Feudal Realms are paid for exclusively with gold.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Capitals\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The three Capital buildings have four levels of expansion, of which the availability is closely linked to your cultural progress. If innovations are still missing, this will be indicated in the upgrade window of the building. Capitals are the most expensive buildings to upgrade, but they also bring the highest effects. Each expansion level of a capital takes five years in total.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Standard Buildings\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Standard buildings form the basis for higher tax revenues, larger troop contingents and a generally better protection of your holdings. This type of building can be erected in any type of holding, provided the terrain is suited for it. For example, the Pastoral Lands building type cannot be built in mountainous and desert terrain, while Camelries are impossible outside of the desert. To see which buildings are available to you, click on an empty building field in the holding overview.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Special Buildings\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_sondergebaeude.jpg",
+        "text": "Special buildings can only be built once in the respective holding (for example, monasteries in a temple holding) and offer a unique effect (for example, Piety in monastery buildings). If you want your ruler and realm to benefit from all three special effects, build all three different holdings and their special buildings in your main county.\n\nYou build Duchy Buildings in a castle holding that is also the headquarters of a ruler with the rank of Duke or higher. Their effects are applied to the entire realm or Duchy, which is reflected in the price of the building and its expansion levels. When building a Duchy building, keep in mind that it should also be useful for future generations! Historic cities like Constantinople also have unique Duchy buildings such as the Theodosian Wall, which you can still replace, if you are not satisfied with the granted effects.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Historic buildings can only be erected in a few historically significant places (see Map), if they are not already placed there by the game (such as the Haiga Sophia Cathedral in Constantinople). You cannot erect any other buildings on historical building squares – you can only destroy an already existing building. Building costs will not be refunded if a building is destroyed!\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Historical Buildings, Mines & Universities-Map\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_specialbuildingsmap_ulixDE.jpg",
+        "text": "Historical Buildings, Mines and Universites only can be built in a few baronies on the whole map. This special buildings map made by Reddit-User ulixDE (on basis of the official CK3-barony map) shows all relevant places.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "text_image",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "",
+        "text": "Laws, Succession Law, Feudal Contracts & How to Deal with the Population and Vassals\n",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "In organized societies, laws of all kinds regulate how people treat each other – naturally this is also the case in Crusader King 3. Researchable and changeable laws for the most important aspects of rule include succession law, feudal authority and feudal contracts. Other customs, such as divorces or society’s opinion on adultery and other possible crimes, are governed by the doctrines of the ruler’s faith. More on this later in the section dealing with Religions.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Succession Law\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderking3_erbrecht.jpg",
+        "text": "As soon as your current ruler has passed away, usually the fighting and stabbing among the heirs begins: Successions are seldom so conveniently regulated that the descendants of a ruler do not start fighting over title and land. The most comfortable form of succession – the eldest child inherits everything, the so-called Primogeniture – is a late medieval innovation. So if you start the game in 867 or 1066 A.D. you will have to deal with rather difficult circumstances for a long time. Open the realm window (F2) and select the tab “Succession” to see your current succession law and your heirs.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Your Succession Law consists of two components: the Succession Law and the Gender Law. With the Gender Law you determine which gender is preferred in the succession or you introduce equal rights. With the Succession Law you decide how the available titles are divided among the possible heirs.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "The availability of genders for the succession is determined by the main doctrines of your faith. If these do not appeal to you, you will have to initiate a reformation of your faith. Possible variations of the distribution of titles are explored through the innovations of the four eras and must be unlocked before you can use them as law. Every change in succession law costs you prestige.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "These Gender Laws exist\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Male Only/Male Preference\n(Main Doctrine”Male Dominated”)\nOnly men can inherit (“Only Men”) or male heirs are preferred over female heirs (“Male Privilege”).\nMale Preference/Equal/Female Preference\n(Main Doctrine “Equal”)\nMale heirs are preferred (“Male Preference”), men and women are treated equally when it comes to succession (“Equal”) or female heirs are preferred (“Female Preference”).\nFemale Only/Female Preference\n(Main Doctrine”Female Dominated”)\nOnly women can inherit (“Female Only”) or female heirs are preferred over male heirs in succession (“Female Preference”).",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "These Succession Laws exist\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Confederate Partition\n(Innovation “Gavelkind”)\nAll titles are divided equally among the ruler’s children. If there are not enough titles, but land is available, new Titles will be created.\nPartition\n(Innovation “Hereditary Rule”)\nAll titles are divided equally among the children of the ruler.\nHigh Partition\n(Innovation “Heraldry)\nMost of the titles go to the heir, the rest is divided among the ruler’s children.\nHouse Seniority\n(Innovation “Heraldry”)\nThe oldest member of the ruling house inherits all titles.\nPrimogenitur\n(Innovation “Primogeniture”)\nThe eldest child of the ruler inherits all titles.\nUltimogeniture\n(Innovation “Primogeniture”)\nThe ruler’s youngest child inherits all titles.\nFeudal Elective\nThe Ruler and all direct De Jure vasalls of one or two ranks below the title can nominate an heir from amongst themselves. Close relatives of the ruler are also available for election.\n+10 Direct Vassal Opinion.\nSaxon Elective\nThe ruler and all direct De Jure Vassals of one or two ranks below the title can nominate an heir from the most powerful vassals, the ruler’s legitimate children, or any other valid claimant.\n+5 Direct Vassal Opinion.\nScandinavian Elective\nThe ruler and all De Jure Vassals (except Barons) can nominate an Heir amongst the Ruler’s Extended Family and any available claimants. Voting Power in this Succession Law is influenced by the Elector’s total Domain Development and Capital Popular Opinion. Known criminals are not eligible heirs, but their descendants are.\n+5 Direct Vassal Opinion.\nTanistry Elective\nThe ruler and vassals of one or two ranks below the title can nominate an heir – the Tanist – from among the members of the ruler’s dynasty. Vassals will tend to favor older, distant relatives over close family.\n+5 Direct Vassal Opinion.\nBasically, you avoid wars over succession by using forms of succession law in which only one heir receives your highest titles. However, with fertile rulers, especially in the tribal era and the early Middle Ages, it is inevitable that there will be many title candidates. Here your tactics should be to expand the realm capital and the counties around the main title as much as possible, so that the heir has a good basis to subjugate siblings and other heirs.\n\nIf possible, you should try to expand your realm with a powerful ruler by inheriting one higher title (for example, Duchy) and several lower titles associated with the higher title De Jure. If the other heirs want to become independent, you will have at least one De Jure Casus Belli to reintegrate them into your realm after a successful war. Alternatively, the other heirs will remain your vassals.",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Succession Problem: Too many or not enough available heirs – what to do?\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "If your current ruler is slowly reaching old age, it is time to consider who will become his successor. If there is no heir or if there are many children fighting over a limited number of titles, you should act to prevent the next generation from facing extinction or abundant problems.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Strategy in case of an insufficient number of heirs\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_champion_verbieten.jpg",
+        "text": "Swap Wife (and/or Concubine)\nA male ruler with a woman in her mid-30s to early 40s has a very low chance of having children, as women become infertile at this age. If you have not produced an heir by then, a divorce including marriage to a young, fertile woman is highly recommended. If this is not easy to accomplish, our divorce tips in the section on Marriage and Divorce will help you. The same applies to concubines, if the faith of your ruler allows concubinage – if it doesn’t work out with the offspring, new partners must be sought.\nProtect heirs from death in war\nGenerally forbid your heirs to serve as champions, because lost battles are more likely to have a negative effect on the health of your elite fighters. The game automatically selects characters with high warfare and martial skill stats as champions, which means you should check the champion list (in the military window, F3) regularly. Use the “Forbid” option to keep potential heirs away from lethal battles.\nImprove spouse’s opinion\nIf a couple doesn’t get along well, it won’t work out between the sheets either. Increases the opinion of the spouse or wife by an Sway Scheme or uses a Romance Scheme, provided that the personality traits of the couple are compatible enough (if the traits do not match, the chance of success of a Romance Scheme drops to zero). As an alternative, you can make your wife or unwilling husband your lover by using a Seduce Scheme. Casual fun still bears the chance of successful impregnation after all.\nIncrease fertility of the ruler\nSometimes it takes a little push to turn rulers into happy parents. With the perks “Matriarch/Patriarch” (Diplomacy/Family Hierarch) and “Whole of Body” (Learning/Whole of Body) and “Seducer” (Intrigue/Seducer) you will get a noticeable bonus of 20 percent due to the characteristics associated with them. The perk “Like Weeds in a Garden” (Intrigue/Seducer) increases the fertility of your character even by a full 30 percent! Once your dynasty has gained enough popularity, you can unlock the “Bounteous Loins” legacy in the “Kin” category, which increases the fertility of all characters in the dynasty by ten percent.\nBreed and legitimize Bastards\nCheck the faith doctrines to see how your ruler’s faith views bastards. If children of the ruler are automatically legitimized by the doctrine “No Bastards”, seek an affair and by events to engage in frequent sexual escapades – at some point a shot will hopefully be a goal. If the doctrine “Legitimization” rules, it’s best to devote yourself to several affairs and get on good terms with the Head of Faith of your religion (or the Dynasty Head, if there is no Head of Faith), to ensure that the bastard is legitimized after birth. Only if the faith of the ruler does not legitimize bastards, this method will not work. In this case, the Intrigue Lifestyle “Seducer” also helps, because many perks boost the strength and chance of success of seduce schemes.\nRecruit a competent Court Physician\nFor smaller and larger aches and pains, an averagely trained court physician is more than sufficient. However, when it comes to really unpleasant diseases, the experimental treatment performed by an outstanding court physician can mean the difference between life and death for your heirs. Don’t be satisfied with leisure-time physicians when it comes to health!\nFemale Ruler\nIf you are playing a female ruler, you must keep the succession in mind as early as your fertile age. If you are in your early or mid-twenties, make sure you arrange a matrilineal marriage (children are born in the mother’s house), so that children born in the early twenties and mid-twenties are born in the mother’s succession. Never choose a husband with the quality “Chaste” or physical characteristics that reduce fertility. Increase the opinion of the spouse by using sway or romance schemes to make the couple become familiar with each other as soon as possible.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Strategy in case of too many available heirs\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Send redundant heirs as champions to war\nIf there are too many male heirs, you will sort out the unwanted sons, brothers or uncles most easily by “forcing” them to serve as Champions. Open the Military window (F3) and the Champion overview to use the “Force” option on these heirs and conscript them into military service. Then send your Champions out in a weak army (don’t forget to split the army!) that is lead by an incompetent Commander to fight against strong enemies or to loot neighbouring realms – the rest will be done by the dangerous battle life as soon as they meet the enemy.\nUsing your role as the Dynasty Head to disinherit heirs: If you are the head of your dynasty, you can easily get rid of annoying and redundant heirs by simply disinheriting them. Right-click on the character image of the heir you want to get rid of, click on “Hostile” and then select “Disinherit”. It couldn’t be easier!\nCreate a higher Primary Title\nEspecially in the case of forms of inheritance law such as Confederate Partition and Partition, a realm quickly falls apart into many parts if your deceased ruler held too many titles of equal rank. Try to expand your realm early enough to gather all parts of a De Jure Duchy so that you can recreate a corresponding title. Since your main heir always receives the highest title, you will avoid the fragmentation of your realm that way.\nSearch for secrets of your heirs\nLet your Spymaster perform the councillor task of “Find Secrets” at your court. With a bit of luck he will find a secret of an heir that will be considered a crime. You can throw a criminal courtier into your dungeon without having to fear any consequences – and depending on the conditions of imprisonment, such a thing is quite unhealthy. If you don’t find anything suitable or your heirs are leading a virtuous life, you can use the perk “Kidnapper” (Intrigue/Schemer) to unlock the option of abduction schemes and then attempt to get the respective heir into your control (and your dungeon) by abducting him.\nForging a murder scheme\nWhen nothing else helps, there is still the possibility to get rid of unwanted heirs through murder schemes. You have a good chance of not being discovered, as long as your intrigue value is high enough and you are able to find competent helpers.\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Crown Authority\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Your crown authority determines what rights and duties your vassals have towards you and the degree to which you control them. With a High Crown Authority, vassals become dissatisfied faster, but cannot, for example, fight each other anymore. To see your current crown authority, open the realm window (F2). You can find the crown authority directly below the realm name in the upper part of the realm window. New forms of crown authority can be unlocked through innovations. Changes in the crown authority are paid for with Prestige.\n\nImportant: Because of the extreme opinion deductions (-30), it is only worth maintaining “Absolute Crown Authority” in the case of an extremely chaotic realm, or an acute shortage of money or levies. Be careful not to annoy your powerful vassals without a good reason!\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "These levels of Crown Authority exist\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Autonomous vassals (1)\n+10 Direct Vassal Opinion; Vassals provide levies and taxes, but are otherwise free to do whatever they wish.\nLimited Crown Authority (2)\n(Innovation “Planned Assemblies“)\nRulers can switch between available hereditary succession rights, titles can be revoked, vassals can be retracted, Clan government vassals provide at least five percent of the levies and two percent of the revenues.\nHigh Crown Authority (3)\n(Innovation “Royal Prerogative“)\n-10 Direct Vassal Opinion, +10% Vassal Levy (Contribution), +10% Feudal Vassal Tax (Contribution), vassals cannot declare war on fellow Vassals (unless they have a Hook on the liege), vassal titles cannot be inherited by characters who originate from outside the realm, vassals who oppose the recognition of titles or the retraction of vassals are considered criminals, rulers can switch between all available succession laws, titles can be revoked, vassals can be retracted, clan government vassals provide at least 15 percent of the levies and five percent of the income.\nAbsolute Crown Authority (4)\n(Innovation “Royal Prerogative“)\n-30 Direct Vassal Opinion, +35% Vassal Levy (Contribution), +35% Feudal Vassal Tax (Contribution), vassals cannot declare war on fellow Vassals (unless they have a Hook on the liege), ruler can determine the heir, clan government vassals provide at least 25% of the levies and 10% of the income, rulers can switch between all available succession laws, vassal titles cannot be inherited by characters who originate from outside the realm, vassals who oppose the recognition of titles or the retraction of vassals are considered criminals, titles can be revoked, vassals can be retracted.",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Feudal Contracts\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "https://bstoremusic.xyz/Guide/GuideCrusaderKings3/crusaderkings3_vasallenbande.jpg",
+        "text": "Unlike the previous game, in Crusader Kings 3 you no longer set the duties of a vassal towards your ruler globally, but individually. You can assign special rights, which allow the vassals, for example, to declare wars regardless of the crown authority of the liege or to protect their title from being revoked by the liege. You can unlock new feudal contracts through innovations.\n\n",
+
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "To see what feudal contracts are already in place between your ruler and your vassals, open the Realm window (F2) and click on the “Vassals” tab. Right-click on a vassal portrait and select the option “Modify Feudal Contract” in the “Vassalage & Court” section. You can change feudal contracts only once per character.\n\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Feudal Tax Options\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Exempt: Tax 0%, +10 Vassal opinion\nLow: Tax 1.8%, +5 Vassal opinion\nNormal: Tax 7.5%, +-0 Vassal opinion\nHigh: Tax 11.2%, -15 Vassal opinion, is considered an act of tyranny\nExtortionate: Tax 18.7%, -25 Vassal opinion -25, is considered an act of tyranny\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Feudal Levy Options\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Exempt: Levies 0,0%, +10 Vassal opinion\nLow: Levies 9.0%, +5 Vassal opinion\nNormal: Levies 22.5%, +-0 Vassal opinion\nHigh: Levies 31.5%, -15 Vassal opinion, is considered an act of tyranny\nExtorionate: Levies 45.0%, -25 Vassal opinion, is considered an act of tyranny\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Other Feudal Contracts\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Succession Rights (Forced Partition): Succession law of the vassal is forcefully changed into a partition succession law, Law change costs increase for the vassal, -5 Opinion with vassals\nWar Declaration (sanctioned): Vassal can declare war regardless of the liege’s crown authority, vassal pays less prestige for war Casus Belli within the realm\nCouncil Rights (guaranteed): Vassal can use the Demand Council Position character interaction however he pleases, +5 Opinion with vassal, −2 Opinion about the liege with all powerful vassals\nTitle Revocation (protected): Liege cannot revoke titles, −5 Opinion with the vassal\nCoinage Rights (Innovation “Coinage”): +0.3 Monthly development growth in realm capital for the vassal/−2% Monthly development growth for the liege\nPalatinate (Innovation “Divine Right”), Minimum rank Duke: +5% Monthly Liege Prestige +20% Monthly Vassal Prestige, +15 Fellow vassal opinion, +10 Hostile scheme success chance for the vassal, +10 Personal scheme success chance for the vassal\nScutage (Innovation “Scutage”), Minimum rank Duke: −20% Men-at-arms maintenance\nMarch (Innovation “Burhs”), Minimum rank Duke: −20% Army maintenance,+20% Levy size, +20% Garrison Size, +20% Levy reinforcement rate, +5 Controlled territory defender advantage\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How to deal with the Population and Vassals\n",
+
+
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Particularly in freshly conquered areas or counties that do not follow the faith or culture of your ruler character, the people begin to boil rather quickly. The lower the popular opinion of your ruler, the greater the probability of peasant uprisings, in which you then have to defend yourself against your own people. Even dissatisfied vassals tend to stab you in the back in times where you are weakened. That’s why our Crusader Kings 3 tips in this section are dedicated to the question of how you can make both your people and your vassals happy, or more precisely: how to increase their opinion of your ruler and clear out possible sources of unrest.\n\n   If a vassal leads a faction against you, he is your most important target when trying to improve opinions: a faction loses a lot of influence once the leader leaves it.\n  ",
+        
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How to keep the population happy\n",
+        
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Align culture: If you rule over peasants and citizens from another culture, there will naturally be a lot of friction. Send your Steward with the task “Promote Culture” to counties that do not belong to the culture of your ruler. The map option “Cultures” (lower row of cards in the middle, with the “Book” symbol) will tell you where the culture of the ruler differs from the culture of the people by marking those areas in stripes. The higher the stewardship value of your Steward, the faster this councillor task will be completed.\nAlign faith: If your ruler and his people adhere to different faiths, there are, depending on the relationship of the faiths to each other, sometimes enormous deductions in Opinion. Only forced conversion can help here! Either you allow your ruler to convert to the prevailing faith, or you convert the citizens to the faith of your ruler. You convert your ruler through a corresponding decision, which costs you a certain amount of Piety. With the councilor task “Convert Faith in County” given to your Court Chaplain/Realm Priest, you bring the people to the desired denominational line. The higher the Learning value of your Court Chaplain/Realm Priest, the faster this will be done.\nIs strengthened by the perk “Zealous Proselytizer” (Learning/Theologian). The “Religious Icon” (Learning/Theologian) perk also negates the temporal limit that arises in the conversion of counties whose faith has a higher fervor value than the ruler’s faith.\nPerk “Popular Figurehead” (Stewardship/Architect): You can raise the popular opinion by as much as +50 with this perk. If your ruler follows the Stewardship Lifestyle, this perk becomes especially worthwhile if you plan to conquer large territories or try to gain a foothold in a troubled realm.\nPerk “Open-Minded” (Learning/Scholar): The opinion of members of other cultures about your ruler increases by +15, and apart from that there is no negative effect for you caused by foreign cultures of others.\nCarefully choose Event Decisions: From time to time you will be given decisions, of which the results may also affect popular opinion. Unless the other options provide a clear, useful effect, always choose the options that will increase public opinion when dealing with problems involving the population.\n",
+        
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "How to keep your vassals in line\n",
+        
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      },
+      {
+        "ordered": "text_image",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+
+        "image_link": "",
+        "text": "Sway or Befriend scheme : The basic method, available from the start of the game, is an “sway” scheme against a disliked vassal. This counts as personal scheme and offers you decision-making moments at certain intervals, in which the opinion of the scheme’s target about your character can improve. There are also possible events whose successful outcome earns you an additional opinion bonus. If you have activated the perk “Befriend” (Diplomacy/Family Hierarch), you can bind an already pacified vassal closer to your ruler character through friendship.\nConvert vassals: If a vassal belongs to a different faith than your ruler, this will give little to significant opinion deductions, depending on the relationship between the faiths. With the religion option “Demand Conversion” in the character menu of the vassal, you insistently urge the vassal to convert to the ruler’s faith.\nAppointing a vassal to a council post: Powerful vassals are especially keen on having an influential position. If possible, provide powerful (and competent!) vassals with the desired position in order to ensure that they act in your interest in the future. However, if the vassals’ skill values are low, you should keep them out of the Council, or else they will provoke negative events, based on the chosen councillor task!\nHold a Feast: Use the decision “Hold Feast” in the decision window regularly, if you have enough gold in reserve. If everything goes smoothly, you will increase the opinion values of one of the participants per feast. However, embarrassing events can also occur, which you can counter only with stress. Feasts are therefore only a safe bet for characters with the personality trait “Sociable”, as they automatically lose stress once the feast is over.\nSelect suitable perks: The “Lovable” (Stewardship/Administrator) perk increases the opinion of direct vassals by 10, the “Positions of Power” (Stewardship/Administrator) perk increases the opinion of council members towards your ruler by an additional 20. The “Toe the Line” (Stewardship/Administrator) perk makes your vassals less likely to join Independence factions. The Administrator trait, which your character gets through the same-named perk (Stewardship/Administrator), increases the vassal opinion by 5.\nUnite De Jure Duchies: If you have dukes or kings under your reign who lack counties that belong to their titles, this will be clearly reflected in their opinions. Use the “Duchies” overview of the map (top row, far left icon) to find out which counties belong to which title, or click on a duchy’s coat of arms on the map to display all vassals belonging to it. Unite the counties belonging to the vassal title by assigning them to that vassal. This also applies to kingdoms if you are an emperor.\nPerform the councillor task “Domestic Affairs”: Let your Chancellor perform the councillor task ” Domestic Affairs” to improve long-term relations with all vassals. The bonus is lower than in a sway scheme, but its effects are more widespread.\nThe efficiency of the councillor task is increased by the perk “Chains of Loyalty” (Stewardship/Administrator).\nGet rid of the unlawful ruler penalty: If you have conquered lands that lie far outside your ancestral realm (for example, as Emperor of Byzantium lands in Africa), the vassals there will be dissatisfied because they don’t like foreign rule. Create, if not already existing, a duke or king title of these more distant lands and give it to a local vassal. If you already have a higher-ranking vassal in the disputed territory, put the dissatisfied vassals under his control.\nScare vassals into fear and terror: If friendship does not work, then tyranny will! Use options such as torturing prisoners or horrifying event decisions to increase your ruler’s terror value. Especially useful for this are the perks from the Intrigue Lifestyle “Torturers”. Once a character has reached a certain level of terror (Different from character to character), vassals become so afraid of your ruler that they no longer dare to rebel against him. The reign of terror becomes problematic, however, when your ruler himself becomes a prisoner of war or falls ill: If his terror decreases, the fear of the vassals also decreases. And that will come back to you when the vassals’ opinions towards your ruler fall through the cracks…\n",
+        
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": "xxxxx"
+      }
+    ]
+
+  }
+}
