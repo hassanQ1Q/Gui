@@ -33,74 +33,74 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "color": "#FFFFFF",
+        "title": "Choose Your Hogwarts House",
+        "image": "https://img.game8.co/3628442/8090a970af098852bbcfcb9bc89c28e1.png/show",
+        "color": "#000000",
         "text_size": "25",
         "isLink": true,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "You'll be able to choose between Gryffindor, Slytherin, Ravenclaw, and Hufflepuff houses at the beginning of the game. This will be your permanent home for the rest of your Hogwarts journey. Each house has its own common room and a companion that you can befriend! While you wait for the game to release, take our Hogwarts House Quiz to find out where you belong!",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#ffffff"
       },
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
-		"color": "#FFFFFF",
+        "title": "Learn the Basics of Combat",
+        "image": "https://img.game8.co/3626942/4daada163ba99b21aabec362ede2fa7f.png/show",
+		"color": "#000000",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "First and foremost, you'll want to get a good handle on your wand and make sure to get the basics of spellcasting down pat if you're going to take on Trolls, Goblins, and the rest of the baddies the game throws at you. Visit Lucan Brattleby, leader of the Crossed Wands Dueling Club, if you want to practice casting spells on a dummy. Spells Have Cooldown Periods Casting spells is the bread and butter of any formidable witch or wizard, but in Hogwarts Legacy, this comes at a cost. Once you cast a spell, it will enter a cooldown phase in which you cannot use it again for a short period of time. You can tell a spell is on cooldown by looking in the bottom right corner of the screen - if the spell's icon is filling up, it's still on cooldown and out of commission momentarily. Learn how long each spell takes to finish cooling down so you can pace yourself in combat. The length of the cooldown varies from spell to spell - the more powerful the spell, the longer the cooldown. Make sure you aren't relying solely on one spell so you don't get stuck in cooldown! You might even try brewing some Focus Potions in advance to shorten the cooldown period of your best spells.",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#ffffff"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
-		"color": "#FFFFFF",
+        "title": "Target Specific Enemies in Group Battles ",
+        "image": "https://img.game8.co/3626943/981cdd16f5b408b2055aff5e570a6162.png/show",
+		"color": "#000000",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "You won't always have the luxury of taking enemies on one at a time. It may not seem fair, but you should come prepared in case you have to take on groups of enemies. You can manage these fights better by targeting enemies and picking them off one at a time. The top of the screen will indicate the name and health bar of the enemy you're currently targeting.",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#ffffff"
       },
       {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
-		"color": "#FFFFFF",
+        "title": "Upgrade Gear with the Loom in the Room of Requirement",
+        "image": "https://img.game8.co/3626947/2632c79a7d019916b6fda79fa0aa2784.png/show",
+		"color": "#000000",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "The Gear you find and equip in Hogwarts Legacy will offer a basic stat increase to your offense or defense, but to truly take advantage of the benefits and increase their combat power, you'll need to upgrade Gear using the Loom in the Room of Requirement. You can upgrade a secondary stat or add Traits to your Gear if you have the correct upgrade materials.",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#ffffff"
       },
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-		"color": "#FFFFFF",
+        "title": "Feed and Pet Beasts to Earn Gear Upgrade Materials",
+        "image": "https://img.game8.co/3626941/91055c1fab6142b182de95778701771f.png/show",
+		"color": "#000000",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "Each piece of Gear requires different magical materials to upgrade, and you can get these materials by feeding and petting Beasts that you've rescued from Beast Dens.",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#ffffff"
       },
       {
         "title": "Twisted Lands: Shadow Town",
         "image": "https://usercontent1.hubstatic.com/6961620.jpg",
-		"color": "#FFFFFF",
+		"color": "#000000",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
@@ -108,7 +108,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#ffffff"
       }
     ]
 
