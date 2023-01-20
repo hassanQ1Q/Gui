@@ -1,0 +1,116 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "max",
+		"InterstitialAd": "max",
+        "NativeAd": "max",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+
+		"maxBanner": "6db1491f2e21970c",
+		"maxInterstitial": "812b82d9e0c7cb7f",
+		"maxNative": "64ea2f2ef41edb34",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "How Free Fire is different from Sigma Battle Royale",
+        "image": "https://staticg.sportskeeda.com/editor/2022/12/b5723-16701739344951-1920.jpg",
+        "color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Sigma is the name of a brand new Battle Royale game, which many Free Fire fans have noticed. Overwhelming attention is also a consequence of the insane comparabilities between both survival shooters, as many gamers are tagging Sigma Battle Royale as Free Fire Lite. Although both FF and Sigma Battle Royale have nearly identical graphics, maps, and weapon designs, there are still some differences between the two titles. The following section will list the differences, which include size, compatibility, Play Store authentication, and more.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Garena Free Fire and Sigma Battle Royale: Key differences between both shooter games",
+        "image": "https://staticg.sportskeeda.com/editor/2022/12/a9118-16700767408286-1920.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "1) Authentication from the Google Play Store \b The majority of games compatible with Android OS get authentication from the Google Play Store. Both Garena-backed titles, FF and FF MAX have the authentication. However, Sigma does not have one since Google removed it after it violated the Developer Program Policy.Although players can find download links for its APK file, they should steer clear of them as they also bring the risk of data security issues with malware and bloatware. Instead of Sigma Battle Royale, one can go for better alternatives in the Google Play Store.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "2) Download size ",
+        "image": "https://staticc.sportskeeda.com/editor/2022/11/ff417-16698193232742-1920.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Both Sigma and FF have a massive difference in terms of download size. The former only requires free space of around 280 MB, while the Garena-backed BR game has ROM requirements of more than 1.5 GB, with the download size belonging to the range of 500-550 MB.Furthermore, the size of each app also dictates its performance on a specific device.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "3) Compatibility with lower-end devices",
+        "image": "https://staticc.sportskeeda.com/editor/2022/12/5b1b6-16701460967452-1920.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Due to its smaller file size, Sigma is a better option for lower-end devices compared to Free Fire or its MAX variant. Players with 2 GB RAM Android smartphones can efficiently run the newest BR but will face stutters while playing Garena's Battle Royale title.However, as mentioned earlier, it is not safe to download Sigma from any third-party unreliable source. Players can install better options like Hero Hunters or MaskGun, which are available in the Play Store and are comparatively more original than Sigma Battle Royale.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "4-1) Quality of graphics",
+        "image": "https://staticg.sportskeeda.com/editor/2022/12/7e2dd-16700766633659-1920.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "The fundamental design of the graphics featured in Sigma has an uncanny resemblance to that of Free Fire or FF MAX. However, the identical design or inspiration doesn't guarantee the same quality as FF or FF MAX. Players will find Sigma Battle Royale's graphics quite underwhelming in terms of quality.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "4-2) Quality of graphics",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "The visuals available in Sigma seem pretty cartoonish and have an unrealistic appeal. Although graphics are not the highlight of Free Fire or its MAX version, one can still find them bearable compared to the former. Moreover, the game physics and gun mechanics are superior in Garena's survival shooter.",
+        "isNative": false,
+		"background": "#00FF00"
+      }
+    ]
+
+  }
+}
