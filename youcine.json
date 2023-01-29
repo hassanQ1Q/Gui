@@ -1,0 +1,103 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "max",
+		"InterstitialAd": "max",
+        "NativeAd": "max",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+
+		"maxBanner": "7b6617c04d991cde",
+		"maxInterstitial": "ecffedda7b2976ec",
+		"maxNative": "d279329f312bf259",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Youcine apk and get unlimited free show resources",
+        "image": "https://static.wixstatic.com/media/430a86_629e458242134fd5b22c68a3d435f6ef~mv2.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "The latest and hottest movies and TV series resources are all in Youcine apk. As a streaming media platform, there are not only a large number of program resources, but also special children's movies and animations. At the same time, our apk is suitable for mobile phones, TV and PC, allowing you to watch the latest high-definition movies and TV series for free anytime, anywhere.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "YouCine for Smart TV",
+        "image": "https://static.wixstatic.com/media/430a86_242233ac8c244cf89bb9ed32e61d7c34~mv2.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "YouCine can download and install on Android Smart TVs. Use on Android TVs like Samsung, Sony, TCL, Panasonic, Xiaomi, LG Hisense, Xiaomi Mi TV, Sharp, AOC TV and so on. Downloading Youcine TV is equivalent to downloading cinema apk.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "YouCine for Mobile",
+        "image": "https://static.wixstatic.com/media/430a86_242233ac8c244cf89bb9ed32e61d7c34~mv2.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Samsung, LG, Sony, Lenovo, Dell, Xiaomi, MotoG, Blackberry, HTC, etc, these mobile phone brands can download and use Youcine apk. Downloading Youcine on your mobile makes it more convenient for you to watch 4K movies and TV series anytime, anywhere.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "YouCine for TV Box",
+        "image": "https://static.wixstatic.com/media/430a86_242233ac8c244cf89bb9ed32e61d7c34~mv2.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Enjoy movies with Youcine and watch them in your Box Box. Download YouCine on Nvidia Shield TV Box, Xiaomi Mi TV Box S, T95 MAX, Amazon Fire TV Stick, BQEEL Android and others.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "YouCine for PC Windows",
+        "image": "https://static.wixstatic.com/media/430a86_242233ac8c244cf89bb9ed32e61d7c34~mv2.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "How to download YouCine on PC? To install You Cine apk on Windows 7/8/8/10/xp, you need to use a free Android emulator --- Bluestacks.",
+        "isNative": false,
+		"background": "#ffffff"
+      }
+    ]
+
+  }
+}
