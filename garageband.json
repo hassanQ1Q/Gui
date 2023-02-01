@@ -1,0 +1,103 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+
+		"maxBanner": "7b6617c04d991cde",
+		"maxInterstitial": "ecffedda7b2976ec",
+		"maxNative": "d279329f312bf259",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "How to master…GarageBand",
+        "image": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/garageband-intro-1.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "If you’re armed with a reasonably recent Apple Mac or iOS device, you can download GarageBand for free. Which is great, because GarageBand is one of the most powerful music-making tools in existence. Despite being free, GarageBand isn’t a stripped-back throwaway tool for shoving loops together (although it does have that capability); instead, it strives to cater for all levels of musician, whether you’re a total novice determined to bash out some tunes, or a pro who fancies diving deeper into the software’s capabilities. Before you start randomly chucking around blips and bloops like digital confetti, allow us to guide you along the path of GarageBand enlightenment by highlighting its best features and showing you how to get the best from them. And if you’ve dabbled before, you may be surprised by some of the excellent new tricks available. These tips use GarageBand 10.2 for macOS, which requires macOS 10.11 (El Capitan) or later, and GarageBand 2.3 for iOS 11. However, many of them also work on earlier versions of the software.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "Beginner: Embrace loops",
+        "image": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/1-loops_0.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "On macOS and iOS, GarageBand has a loop browser, enabling you to create songs by dragging and dropping pre-made loops to tracks on the timeline. To open the loop browser, click/tap the loop icon in the toolbar. You can search for specific instruments or genres. Drag a loop to an empty area underneath any existing tracks to get started. Many musicians dismiss loops, but they are useful for building confidence in songwriting, and they can help speed along working on new ideas. Using the occasional loop can add texture to otherwise fully custom compositions, and be handy to jam along with.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "Use smart instruments",
+        "image": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/2-smart-instruments_0.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Ignore music snobs who balk at the idea of automated accompaniment. Smart Instruments in GarageBand for iOS are an excellent way to learn how to construct chord progressions, and a speedy means of fashioning a custom backing track to jam with. You can choose from smart bass, drums, strings, guitars, piano (keyboards). World instruments can also be played as Smart Instruments. Smart drums have you arrange individual drums on a grid, defining whether each should be loud/quiet and simple/complex. The other instruments let you tap out notes within specific chords, or use autoplay to quickly record bass riffs and keyboard arpeggios.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "Learn to play",
+        "image": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/3-learn.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "In the ‘New Project’ dialog on macOS, click ‘Learn to Play’ for playalong intro videos for guitar and piano. ‘Lesson Store’ has a bunch of free full courses, which take you from the basics of handling an instrument through to playing chords and melodies. Once you’ve mastered all that, you can venture into the selection of tutorials from famous artists, who’ll teach you how to play their greatest hits — albeit for four quid a pop. (Sting needs a new gold car!)",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "Be a loop DJ",
+        "image": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/4-loop.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "The Live Loops feature gives you a grid of loops to trigger with taps. To start, you select a genre, and then trigger canned loops by prodding them, while simultaneously pretending you’re a combination of Fatboy Slim, Skrillex and Carl Cox. This system feels toy-like initially, but it’s far more than a throwaway plaything. Live Loops are handy for experimenting with song arrangement, and you can record into empty cells, or add new tracks for custom loops. You can record an entire live performance, too, making Live Loops a means of quickly creating a sketch for a new song that could later be worked on in the studio.",
+        "isNative": false,
+		"background": "#ffffff"
+      }
+    ]
+
+  }
+}

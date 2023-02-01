@@ -1,0 +1,103 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+
+		"maxBanner": "7b6617c04d991cde",
+		"maxInterstitial": "ecffedda7b2976ec",
+		"maxNative": "d279329f312bf259",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "100% mod works",
+        "image": "https://www.happymodapkdl.com/static/img/hero1.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "HappyMod is a community with millions of active users every day. Users enjoy free downloads in this community and vice versa upload new mods. All modifications here are from user uploads. If you have a useful app/mod, you are welcome to share it with everyone.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "Users check",
+        "image": "https://www.happymodapkdl.com/static/img/hero1.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "At HappyMod, tens of thousands of new apps/mod are uploaded every day. Enthusiastic volunteer users run virus scans and usability tests on every app/mod. Ensure that no malicious or deceptive apps are published to the public.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "100% working",
+        "image": "https://www.happymodapkdl.com/static/img/index-icon-14.jpg?1",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "The goal of HappyMod is to make sure that every download link is 100% working, and every app/mod is 100% working. To achieve this goal, we maintain a system of volunteer users. All volunteers work together every day to check every download link and every app/mod. Invalid links and incorrect app/mod will be removed. Wrong descriptions will be fixed. Our system will also automatically analyze user feedback to try to achieve 100% working goal.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "100% FREE!",
+        "image": "https://www.happymodapkdl.com/static/img/index-icon-14.jpg?1",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "HappyMod offers you the possibility to make modifications to your favorite apps and games for free. It is a mod APKs store that comes with a lot of latest apps and games with a super fast download speed.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "Smaller size + less ads",
+        "image": "https://www.happymodapkdl.com/static/img/index-icon-14.jpg?1",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Simple design HappyMod is dedicated to providing minimal app for Android users. Unnecessary features or effects are completely limited from the start. HappyMod is less than a third the size of similar productsbut the download experience is much better than similar products. minimum memory HappyMod pays special attention to performance optimization to cater to all kinds of Android devices. Before each HappyMod release, it is officially released, and it will test a large number of Android devices including: Samsung, Xiaomi, Oppo, Vivo, Realme, Huawei, Transsion, Tecno, Itel, and Honor. HappyMod has a very good performance with older phones with weak hardware. Minimum ads HappyMod is committed to providing users with the best user experience. We know that too many ads can turn off users. Therefore, the number of ads in HappyMod is only one tenth of similar products. Interesting forms of ads are adopted to minimize interference with users.",
+        "isNative": false,
+		"background": "#ffffff"
+      }
+    ]
+
+  }
+}

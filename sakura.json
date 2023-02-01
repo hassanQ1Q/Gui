@@ -1,0 +1,116 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+
+		"maxBanner": "6db1491f2e21970c",
+		"maxInterstitial": "812b82d9e0c7cb7f",
+		"maxNative": "64ea2f2ef41edb34",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "SAKURA School Simulator Beginner’s Guide: Tips, Cheats & Strategies to Ace Every Mission",
+        "image": "https://i0.wp.com/www.levelwinner.com/wp-content/uploads/2021/05/sakura-school-simulator-tricks-800x370-1.jpg",
+        "color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Browsing through either the Google Play Store or the Apple App Store almost always takes you on a journey through familiar territory. Especially in the case of more experienced and veteran mobile gamers, scrolling or swiping across various game titles will give you a good enough idea of its genre and gameplay. To some extent, some games that are new to you will even be comparable to a game or several games you have played before, and then there are those titles intriguing enough to look into as you have zero clues as to what it is all about, just like SAKURA School Simulator. SAKURA School Simulator is currently the only app from Garusoft Development Inc. and, 2 years following its release, has already earned more than 10 million downloads from the Google Play Store alone and maintained largely positive average user review ratings on both mobile platforms. Although categorically a simulation game, which is a genre that offers the broadest variety in gameplay, SAKURA School Simulator provides a wide range of gaming experiences that are unique and hard to compare to any other game on mobile. As the title suggests, SAKURA School Simulator centers around school life in a town called Sakura. You can expect that the adventure set before you is not all about academics and extra-curricular activities as there are more than enough bizarre factors that make it a more immersive and exciting virtual experience. Progression is not as linear as one might expect from a mobile game as the actions towards other people and the activities you engage in has an effect on what may happen next. You can collect friends, lovers, and enemies as you move forward in your journey and each day is bound to be an experience like no other. SAKURA School Simulator offers simple and intuitive controls as well as a very liberal gameplay. You can freely explore on your own and discover what the entire city has to offer. It can be easy for anyone to get lost in the huge open world or even dive in and have no sense of where you need to go and what to do. Despite not having tutorials, though, there is a help menu available to you as soon as you start your adventure. If you just started playing the game and want to jumpstart your adventure or if you have spent some time exploring Sakura Town and would want to learn more tips and strategies, then read our SAKURA School Simulator beginner’s guide below!",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "1-1. Master The Basics",
+        "image": "https://staticg.sportskeeda.com/editor/2022/12/a9118-16700767408286-1920.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "SAKURA School Simulator is packed with tons of features and activities to engage in and offers you utmost liberty in fully immersing yourself within its world. There is plenty of fun to have exploring the vast town of Sakura on your own and, of course, venturing blindly into the unknown is a journey we go behind as well. Considering everything, it helps to have an idea of some basic features and game mechanics built into SAKURA School Simulator as there are still an abundant supply of things to discover on your own moving forward. For starters, choosing which main character to choose and how you decide to dress up is not as critical. There are 2 main characters available and you can unlock 3 more after watching a short video ad for each of them. While that in itself is already cool, what makes it even better is the fact that you can instantly shift controls across all 5 characters. Starting a new game will have you control Rina Tamaki. You can immediately change to a different character by clicking on the menu button at the upper left side of the screen and choosing a character on the bottom left side of the window. Each character has a different starting point, which is their home, where several items can typically be found. You can choose to customize your character’s appearance before diving into the game and can edit as much as you want within their residence, indicated aby a circle on the floor of the designated areas. There are plenty of clothes, masks, and glasses to choose from and while the plethora of choices is more than enough to fill your needs and wants as far as customizations go, there are plenty of outfits and costumes that are beyond mere cosmetics. An excellent example of this is the Alice in Wonderland dress that you can unlock after watching a video ad. This dress comes with a special ability that can increase or decrease your character’s size. There are clothes that also change your appearance drastically like the baby costume and the ranger outfit. There are costumes like the kunoichi that increases your movement speed, a witch costume that comes with a wand that can shoot off fireballs, a police officer armed with a baton and a revolver, or even a shrine maiden with a unique supernatural ability. On the game screen, a lot of the icons are self-explanatory although some require a bit of understanding for complete beginners. The virtual d-pad used to control the character’s movement is invisible and appears only when you touch anywhere on the left half of the screen. You can adjust your view by touching and swiping on the right side of the screen as well. ",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "1-2. Master The Basics",
+        "image": "https://i0.wp.com/www.levelwinner.com/wp-content/uploads/2021/05/sakura-school-simulator-character-800x400-1.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Both Sigma and FF have a massive difference in terms of download size. The former only requires free space of around 280 MB, while the Garena-backed BR game has ROM requirements of more than 1.5 GB, with the download size belonging to the range of 500-550 MB.Furthermore, the size of each app also dictates its performance on a specific device.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "3) Compatibility with lower-end devices",
+        "image": "https://i0.wp.com/www.levelwinner.com/wp-content/uploads/2021/05/sakura-school-simulator-using-jetpack-800x400-1.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There is an action button on the lower right side of the screen for all your interaction needs as well as an attack and a jump button. The button on the lower right corner show what you will use if you attack. You will start off with just your fists, which are quite fierce on its own but you will have plenty of weapons to acquire later on. You can tap on the zoom button to change the perspective on the go and SAKURA School Simulator also comes with a jetpack button that lets you levitate and fly across town. When using the jetpack, moving will constantly glide you down. You need to use the jump button on its own to move upwards and hold it while moving around to keep you in the air. A Dash button also appears above the action button when using the jetpack. This is a very useful tool to get you places faster as well as flee from danger when you need to. You can see your life bar at the upper right side of the screen. There is a camera you can click on for a quick screen capture and a save button that you will have to use from time to time. Keep in mind that not saving your game will make you lose all progress. It is best to save as often as you can and especially when taking on a difficult quest or planning to do something that will negatively impact your progress. As much as everything with a life bar in SAKURA School Simulator can be killed, including yourself, no one actually ever dies in Sakura Town. Reducing the life bar to zero only causes the character to faint. In your case, you can always choose to play a video ad to continue where you left off as fainting and regressing can be a hassle in some situations. For all other NPCs, fainting will bring them back again the following day. ",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "4-1) Quality of graphics",
+        "image": "https://i0.wp.com/www.levelwinner.com/wp-content/uploads/2021/05/sakura-school-simulator-settings-800x400-1.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "There are 5 basic icons on the left side of the screen to take note of: the “thumbs up” icon shows the degree of your popularity; the coffin counts the number of people you fainted for the day; the heart is for the number of lovers; the win person symbolizes the number of your friends; and the frown represents the number of people who are pursuing you. Note that these statistics are separate and distinct for each character, giving you more reasons to switch from one character to the next just in case one is in trouble. You can access your inventory through the item icon at the upper left of the screen and there is a radar as well to give you an idea of where you exactly are in Sakura Town. By using the map, you can also call on friends and lovers and they will come to you if possible. The mission and help buttons are self-explanatory and needs to be check out especially when you have just started your adventure. The menu button holds a variety of options. In addition to seeing your status and being to control the weather as well as teleport to any location at will, you can also move forward in time through the system settings. As some of the events only take place within a certain period of time, you can opt to fast forward time instead of manually waiting for the next cycle in instances where you miss an event.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "4-2) Quality of graphics",
+        "image": "https://i0.wp.com/www.levelwinner.com/wp-content/uploads/2021/05/sakura-school-simulator-settings-800x400-1.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "The visuals available in Sigma seem pretty cartoonish and have an unrealistic appeal. Although graphics are not the highlight of Free Fire or its MAX version, one can still find them bearable compared to the former. Moreover, the game physics and gun mechanics are superior in Garena's survival shooter.",
+        "isNative": false,
+		"background": "#00FF00"
+      }
+    ]
+
+  }
+}

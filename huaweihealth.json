@@ -1,0 +1,103 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+
+		"maxBanner": "7b6617c04d991cde",
+		"maxInterstitial": "ecffedda7b2976ec",
+		"maxNative": "d279329f312bf259",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Step 1: Download",
+        "image": "https://consumer-tkbdownload.huawei.com/ctkbfm/applet/simulator/en-gb15770822/img/wechat.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Download and install HUAWEI Health app to your phone: \b 1. Android phone users: Visit https://appgallery.huawei.com/outGoingApp/C10414141 to download the HUAWEI Health app.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "Step 2: Pair",
+        "image": "https://consumer-tkbdownload.huawei.com/ctkbfm/applet/simulator/en-gb15770822/img/step1-1.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "1. Open the HUAWEI Health app and follow the onscreen instructions to grant the required permissions. Go to Devices >  > Add > Smart watches or Smart bands, then select your device name. \b 2. Touch Pair then HUAWEI Health app will automatically search for available devices. Touch the name that matches the one on your watch to pair the device. \b  * To check the name of your watch, press the Up button on the watch's home screen to enter the app list, then go to Settings > About, the name displayed on the watch is the Bluetooth name of the watch.  \b 3. Touch  when the pairing request pops up on the watch screen and confirm the request on the phone to pair the device. \b * If your watch does not respond after you touch , hold the Down button to unlock your watch, and start the pairing process again. \b 4. Once paired, the watch will show an image, then return to the home screen, and sync to the phone (sync data including date and time). If pairing fails, the watch will show a pairing failed image and return to the startup screen.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "What can you do if pairing fails",
+        "image": "https://consumer-tkbdownload.huawei.com/ctkbfm/applet/simulator/en-gb15770822/img/3-1.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "1. Open the HUAWEI Health app, go to Me > Check for updates, and check if your HUAWEI Health app is completely up to date. If not, update HUAWEI Health app before trying again. \b 2. Place your watch near the phone, enable Bluetooth on the phone, go to Settings > Bluetooth, and make sure that the wearable device is available for pairing. \b* The path mentioned above is based on EMUI 10.1. The actual path may vary. \b 3. Enable Location Services on your phone. Example (phone running EMUI 10.1): Go to Settings > Privacy > Location Services, and enable Access my location. Then touch Advanced settings and enable Wi-Fi scanning and Bluetooth scanning.4. Grant the HUAWEI Health app the Location permission. Example (phone running EMUI 10.1): Go to Settings > Apps > Apps > Health > Permissions > Location, select Allow all the time.5. If you see a message in HUAWEI Health app saying that the device list is unable to be updated when trying to add a device, it may be because the network is poor, make sure you are using Wi-Fi and try again.6. Restart your phone and wearable device and connect them again.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "How to pair your watch with a new device",
+        "image": "https://consumer-tkbdownload.huawei.com/ctkbfm/applet/simulator/en-gb15770822/img/1-1.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "The watch can only be connected to one phone at a time, and vice versa. To connect your watch to another phone, in HUAWEI Health app, touch Devices then your device name, then touch  in the top-right corner, select Unpair device and then UNPAIR. Delete the pairing records on your watch by touching Disconnect on your watch, then pair the watch with another phone using the HUAWEI Health app.",
+        "isNative": false,
+		"background": "#ffffff"
+      },
+      {
+        "title": "Step 3: Update",
+        "image": "https://consumer-tkbdownload.huawei.com/ctkbfm/applet/simulator/en-gb15770822/img/step3.png",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Open the HUAWEI Health app and go to Me > Check for updates. * HUAWEI Health will be pushed in batches based on the phone model. Keep an eye out for the latest updates.",
+        "isNative": false,
+		"background": "#ffffff"
+      }
+    ]
+
+  }
+}
